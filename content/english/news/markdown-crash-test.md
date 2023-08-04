@@ -3,7 +3,7 @@ title: Entries
 date: 2022-05-04T02:12:07.432Z
 image: /media/bgdog.jpg
 summary: Let's check the support of Markdown
-slug: testtest
+slug: entries
 ---
 #### 9-11.02.2024 Legnica / Poland
 

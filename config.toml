@@ -30,6 +30,3 @@ defaultContentLanguage = 'pl'
     [languages.pl.permalinks]
       [languages.pl.permalinks.page]
         news = '/:slug/'
-
-[permalinks]
-  news = "/:slug/"

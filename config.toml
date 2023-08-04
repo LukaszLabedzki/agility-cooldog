@@ -1,6 +1,6 @@
-baseURL = 'https://roneo.itcouldbewor.se/'
-languageCode = 'en-us'
-defaultContentLanguage = 'en'
+baseURL = 'https://agilitypoland.dog/'
+languageCode = 'pl-pl'
+defaultContentLanguage = 'pl'
 
 
 [params]

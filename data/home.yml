@@ -34,12 +34,14 @@ en:
      **CAUTION: the hall can be entered only through revolving door.**
 
 
-          <details>
-            <summary>hello</summary>
+          {{< rawhtml >}}<details>
+            <summary>Test</summary>
 
             undefined
 
-          </details>
+          </details>{{< /rawhtml >}}
+
+          
 
 pl:
   body: >-

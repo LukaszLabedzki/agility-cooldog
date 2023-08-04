@@ -22,10 +22,13 @@ en:
   socials:
     - icon: fa-facebook
       url: https://www.facebook.com/Polishopen.dog
+      title: Facebook
     - url: https://www.instagram.com/polishopen_agility/
       icon: fa-instagram
+      title: Instagram
     - icon: fa-envelope
       url: mailto:info@polishopen.dog
+      title: E-mail
 pl:
   logo: /media/logo.png
   menu:

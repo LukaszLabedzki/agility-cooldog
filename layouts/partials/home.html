@@ -4,31 +4,17 @@
 {{ $ := index site.Data.header site.Language.Lang }}
 {{ $glossary := index site.Data.glossary site.Language.Lang }}
 
-{{site.Data.home.body | markdownify }}
-{{ .Content }}
-<section class="section sec1" id="home">
-    <div class="left-header">
-        <div class="h-shape"></div>
-        <img src="{{$data.image}}" class="image">
-    </div>
-    <div class="right-header">
-        <h1 class="name">{{ $data.title | safeHTML }}</h1>
-        <p>{{ $data.shortDescription }}</p>
-        <div class="btn-container-group">
-          <div class="btn-container">
-            <a href="#product"  data-id="product">
-                <span class="btn-text">{{$glossary.cta1}}</span>
-                <span class="btn-icon"><i class="fas fa-angle-down"></i></span>
-                <i class="bg"></i>
-            </a>
-          </div>
-          <div class="btn-container">
-            <a href="https://github.com/RoneoOrg/hugo-remix-one-click-netlify-cms#readme"  data-id="product" target="blank">
-                <span class="btn-text">{{$glossary.cta2}}</span>
-                <span class="btn-icon btn-icon-deploy"><i class="fas fa-rocket"></i></span>
-                <i class="bg"></i>
-            </a>
-          </div>
+{{ if $data.image }}
+<div class="page-background" style="background-image: url({{ $data.image }})"></div>
+{{ end }}
+
+<div class="container">
+    <div class="page-content">
+        <div class="card">
+            <div class="card__header">
+                <h4>Venue</h4>
+            </div>
+            <div class="card__content">{{ $data.body | markdownify }}</div>
         </div>
     </div>
-</section>
+</div>

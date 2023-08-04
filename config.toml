@@ -7,6 +7,8 @@ defaultContentLanguage = 'en'
   title = 'Mistrzostwa Polski Agility 2023'
   metaDescription = "Mistrzostwa Polski Agility 2023"
 
+[permalinks]
+  news = "/:slug/"
 
 [languages]
   [languages.en]
@@ -17,8 +19,9 @@ defaultContentLanguage = 'en'
     languageName = 'English'
     title = 'Project Documentation'
     weight = 1
-    [languages.de.params]
-      subtitle = 'Referenz, Tutorials und Erklärungen'
+    [languages.en.permalinks]
+      [languages.en.permalinks.page]
+        news = '/:slug/'
   [languages.pl]
     contentDir = 'content/pl'
     disabled = false
@@ -27,8 +30,9 @@ defaultContentLanguage = 'en'
     languageName = 'Polski'
     title = 'Project Documentation'
     weight = 2
-    [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+    [languages.pl.permalinks]
+      [languages.pl.permalinks.page]
+        news = '/:slug/'
 
 [taxonomies]
   category= "theme"

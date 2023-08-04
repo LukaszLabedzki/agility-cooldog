@@ -3,6 +3,7 @@ title: Message de service!
 date: 2022-05-19T03:56:10.184Z
 image: /media/wave.jpg
 summary: Attention peinture fraiche
+slug: testtest 
 ---
 
 Culpa sunt adipisicing veniam duis consectetur aliquip fugiat Lorem exercitation cillum enim nulla. Quis do pariatur quis nostrud elit in. Non labore velit culpa consequat ut enim consectetur consequat fugiat velit adipisicing. Incididunt veniam ut fugiat labore non commodo adipisicing cillum qui. Sit commodo sit nisi deserunt elit mollit aliquip nisi laborum occaecat.

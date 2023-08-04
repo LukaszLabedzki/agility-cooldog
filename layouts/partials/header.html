@@ -21,7 +21,7 @@
 
     <div class="header">
         <div class="container">
-            <a href="/#home" class="logo">
+            <a href="{{ .Site.BaseURL | relLangURL }}" class="logo">
                 <img src="{{ $settings.logo }}" alt="Logo">
             </a>
 
@@ -50,7 +50,18 @@
             <div class="container">
                 <div class="header-sub">
                 <nav class="main-nav">
-
+                    {{ range $settings.menu }}
+                    <div {{ if .submenu }}class="sub"{{ end }}>
+                        <a href="{{ .url }}">{{ .title }}</a>
+                        {{ if .submenu }}
+                        <nav>
+                            {{ range .submenu }}
+                            <a href="{{ .url }}">{{ .title }}</a>
+                            {{ end }}
+                        </nav>
+                        {{ end }}
+                    </div>
+                    {{ end }}
                 </nav>
                 </div>
             </div>

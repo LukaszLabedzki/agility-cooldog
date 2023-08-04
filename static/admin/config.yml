@@ -34,6 +34,14 @@ collections:
         name: "settings"
         fields: [
           { label: "Logo", name: "logo", widget: "image" , media_folder: "/static/media" , public_folder: "/media", i18n: true },
+          { label: "Menu Items", name: "menu", widget: "list", i18n: true, fields: [
+            { label: "Link Title", name: "title", widget: string , i18n: true },
+            { label: "URL", name: "url", widget: string, i18n: true },
+            { label: "Submenu Items", name: "submenu", widget: "list", i18n: true, fields: [
+              { label: "Link Title", name: "title", widget: string , i18n: true },
+              { label: "URL", name: "url", widget: string, i18n: true }
+            ] }
+          ] }
         ]
       - file: "data/home.yml"
         i18n: true

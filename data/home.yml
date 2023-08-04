@@ -11,7 +11,7 @@ en:
   copyright: "  © 2017-2022 - OhBonsaï &"
   register: Roneo.org
   registerUrl: https://roneo.org/en
-fr:
+pl:
   image: /media/wave.jpg
   title: Remix, un <span>theme pour Hugo</span> branché sur <span>Netlify CMS</span>
   slogan: Lorem magna eiusmod ea eu irure exercitation non incididunt.

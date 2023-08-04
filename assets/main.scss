@@ -1,6 +1,12 @@
 // 主样式
+@import "./bootstrap.scss";
+
+$col-main-red: #bf1b2b;
+
 @import "./common.scss";
 @import "./media.scss";
+
+@import "./header.scss";
 
 // header
 .header-bar {

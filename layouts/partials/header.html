@@ -17,8 +17,47 @@
 {{ end}}
 
 
+{{ $settings := index site.Data.settings site.Language.Lang }}
 
+    <div class="header">
+        <div class="container">
+            <a href="/#home" class="logo">
+                <img src="{{ $settings.logo }}" alt="Logo">
+            </a>
 
+            <ul class="links-box">
+
+                <li class="info-block__item info-block__item--contact-primary">
+
+                            <span class="df-icon-custom"><i class="fas fa-envelope"></i></span>
+                
+                <a href="mailto:info@polishopen.dog">info@polishopen.dog</a>
+            </li>
+            
+                <li class="info-block__item info-block__item--contact-secondary">
+
+                            <span class="df-icon-custom"><i class="fas fa-users"></i></span>
+                
+                <a class="info-block__link" href="https://www.facebook.com/groups/546826853053199">
+                    Polish Open - FB discussion for competitors     </a>
+            </li>
+        
+        
+    </ul>
+</div>
+</div>
+        <div class="header-sub-container">
+            <div class="container">
+                <div class="header-sub">
+                <nav class="main-nav">
+
+                </nav>
+                </div>
+            </div>
+
+        </div>
+
+<!---
 <div class="header-bar">
     <div class="nav logo">
         <a class="item" href="/#home" data-id="home">
@@ -42,7 +81,7 @@
 
             <a class="item" href="/#about" data-id="about">{{$glossary.about}}</a>
 
-              <!-- <a class="item" href="/#solution" data-id="solution">
+            <a class="item" href="/#solution" data-id="solution">
                   <span>{{$glossary.solution}}</span>
                   <i class="fa-solid fa-angle-down"></i>
                   <ul>
@@ -54,7 +93,7 @@
                       </li>
                       {{ end }}
                   </ul>
-              </a> -->
+              </a>
 
 
             <a class="item" href="/#news" data-id="news">{{$glossary.news}}</a>
@@ -69,3 +108,4 @@
         </div>
     </div>
 </div>
+-->

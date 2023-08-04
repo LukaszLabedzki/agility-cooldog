@@ -4,25 +4,31 @@ defaultContentLanguage = 'en'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = 'Mistrzostwa Polski Agility 2023'
+  metaDescription = "Mistrzostwa Polski Agility 2023"
 
 
-# Languages
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-mark = "EN"
-
-[Languages.fr]
-languageName = "fr"
-languageCode = "fr-fr"
-contentDir = "content/fr"
-weight = 2
-mark = "FR"
-
+[languages]
+  [languages.en]
+    contentDir = 'content/english'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 1
+    [languages.de.params]
+      subtitle = 'Referenz, Tutorials und Erklärungen'
+  [languages.pl]
+    contentDir = 'content/pl'
+    disabled = false
+    languageCode = 'pl-PL'
+    languageDirection = 'ltr'
+    languageName = 'Polski'
+    title = 'Project Documentation'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
 
 [taxonomies]
   category= "theme"

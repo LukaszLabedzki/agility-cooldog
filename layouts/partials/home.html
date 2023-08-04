@@ -4,6 +4,8 @@
 {{ $ := index site.Data.header site.Language.Lang }}
 {{ $glossary := index site.Data.glossary site.Language.Lang }}
 
+{{site.Data.home.body | markdownify }}
+{{ .Content }}
 <section class="section sec1" id="home">
     <div class="left-header">
         <div class="h-shape"></div>

@@ -36,7 +36,7 @@ en:
 
 
 
-    <div className="w-container"><iframe src="https://www.youtube.com/embed/7uzRy1a8WIE" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
+    <div><iframe src="https://www.youtube.com/embed/7uzRy1a8WIE" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
 pl:
   body: >-
     #### 9-11.02.2024 Legnica / Poland

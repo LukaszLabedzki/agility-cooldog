@@ -23,19 +23,19 @@
       CMS.registerEditorComponent({
         id: 'iframe',
         label: 'Youtube iframe',
-        fields: [{ name: 'id', label: 'Iframe URL', widget: 'string' }],
+        fields: [{ name: 'id', label: 'Youtube source id', widget: 'string' }],
         pattern:
-          /<div class="w-container"><iframe src="https:\/\/www\.youtube\.com\/embed\/([A-Za-z-_]+)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><\/iframe><\/div>/g,
+          /<div><iframe src="https:\/\/www\.youtube\.com\/embed\/([A-Za-z-_]+)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><\/iframe><\/div>/g,
         fromBlock(match) {
           return {
             id: match[1],
           };
         },
         toBlock({ id }) {
-          return `<div className="w-container"><iframe src="https://www.youtube.com/embed/${id}" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>`;
+          return `<div><iframe src="https://www.youtube.com/embed/${id}" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>`;
         },
         toPreview({ id }) {
-          return `<div className="w-container"><iframe src="https://www.youtube.com/embed/${id}" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>`;
+          return `<div><iframe src="https://www.youtube.com/embed/${id}" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>`;
         },
       });
     </script>

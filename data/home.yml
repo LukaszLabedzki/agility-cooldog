@@ -1,7 +1,6 @@
 en:
-  title: Remix, a <span>theme for Hugo</span> fully editable with <span>Netlify
-    CMS</span>
-  slogan: Nulla magna eiusmod ea eu irure exercitation non incididunt.
+  title: English Title
+  slogan: Slogan po angielsku
   shortDescription: |
     
     → Get your own copy of this website in minutes.
@@ -57,3 +56,5 @@ pl:
 
      **CAUTION: the hall can be entered only through revolving door.**
   image: /media/bgdog.jpg
+  title: Polish Title
+  slogan: Slogan po polsku

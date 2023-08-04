@@ -20,7 +20,7 @@ pl:
   logo: /media/logo.png
   menu:
     - title: Zapisy
-      url: /pl/entries
+      url: /pl/zapisy
     - title: Home
       url: /
   cats:

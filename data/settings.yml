@@ -18,6 +18,7 @@ en:
     - test,best,mest,dest
   fbgroup: https://www.facebook.com/groups/546826853053199
   email: info@polishopen.dog
+  fbgroup_title: Polish Open - FB discussion for competitors
 pl:
   logo: /media/logo.png
   menu:
@@ -27,3 +28,4 @@ pl:
       url: /
   cats:
     - hello,yello,mello
+  fbgroup_title: Polish Open - FB dyskusje zawodników

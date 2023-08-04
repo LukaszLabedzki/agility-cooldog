@@ -7,9 +7,6 @@ defaultContentLanguage = 'pl'
   title = 'Mistrzostwa Polski Agility 2023'
   metaDescription = "Mistrzostwa Polski Agility 2023"
 
-[permalinks]
-  news = "/:slug/"
-
 [languages]
   [languages.en]
     contentDir = 'content/english'
@@ -34,6 +31,5 @@ defaultContentLanguage = 'pl'
       [languages.pl.permalinks.page]
         news = '/:slug/'
 
-[taxonomies]
-  category= "theme"
-  scene = "scenes"
+[permalinks]
+  news = "/:slug/"

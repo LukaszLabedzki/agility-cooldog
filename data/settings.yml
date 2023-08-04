@@ -1,10 +1,19 @@
 en:
   logo: /media/logo.png
   menu:
-    - title: Home
+    - title: Venue
       url: /
     - title: Entries
       url: /entries
+    - title: Tournament
+      submenu:
+        - title: Info
+          url: /info
+        - title: Rules
+          url: /rules
+        - title: Entries
+          url: /entries
+      url: /
 pl:
   logo: /media/logo.png
   menu:

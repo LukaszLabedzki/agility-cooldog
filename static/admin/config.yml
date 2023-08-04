@@ -34,6 +34,10 @@ collections:
         name: "settings"
         fields: [
           { label: "Logo", name: "logo", widget: "image" , media_folder: "/static/media" , public_folder: "/media", i18n: true },
+          { label: "Footer Logo", name: "footer_logo", widget: "image" , media_folder: "/static/media" , public_folder: "/media", i18n: true },
+          { label: "FB Group URL", name: "fbgroup", widget: "string" , i18n: true },
+          { label: "FB Group Title", name: "fbgroup_title", widget: "string" , i18n: true },
+          { label: "Contact Email", name: "email", widget: "string" , i18n: true },
           { label: "Menu Items", name: "menu", widget: "list", i18n: true, fields: [
             { label: "Link Title", name: "title", widget: string , i18n: true },
             { label: "URL", name: "url", widget: string, i18n: true },
@@ -41,6 +45,11 @@ collections:
               { label: "Link Title", name: "title", widget: string , i18n: true },
               { label: "URL", name: "url", widget: string, i18n: true }
             ] }
+          ] },
+          { label: "Social Links", name: "socials", widget: "list", i18n: true, fields: [
+            { label: "Title", name: "title", widget: string , i18n: true },
+            { label: "Icon", name: "icon", widget: string , i18n: true },
+            { label: "URL", name: "url", widget: string, i18n: true }
           ] }
         ]
       - file: "data/home.yml"
@@ -156,7 +165,7 @@ collections:
             { label: "list", name: "list", widget: string, i18n: true },
           ]
   - name: "news"
-    label: "Pages"
+    label: "Pages (en)"
     folder: "content/english/news"
     path: "{{slug}}"
     media_folder: "{{media_folder}}"
@@ -164,10 +173,9 @@ collections:
     create: true
     fields:
       [
-        { label: "Titre", name: "title", widget: "string" },
-        # { label: "Publish Date", name: "date", widget: "datetime"},
+        { label: "Title", name: "title", widget: "string" },
+        { label: "Slug", name: "slug", widget: "string" },
         { label: "Background Image", name: "image", widget: "image" },
-        # { label: "Summary", name: "summary", widget: "text" },
         { label: ".", name: "body", widget: "markdown" },
       ]
   - name: "news-fr"
@@ -180,9 +188,8 @@ collections:
     fields:
       [
         { label: "Title", name: "title", widget: "string" },
-        { label: "Publish Date", name: "date", widget: "datetime", i18n: "duplicate" },
+        { label: "Slug", name: "slug", widget: "string" },
         { label: "Background Image", name: "image", widget: "image" },
-        { label: "Summary", name: "summary", widget: "text" },
         { label: "Body", name: "body", widget: "markdown" },
       ]
   - name: "products"

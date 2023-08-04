@@ -26,29 +26,22 @@
             </a>
 
             <ul class="links-box">
-
-                <li class="info-block__item info-block__item--contact-primary">
-
-                            <span class="df-icon-custom"><i class="fas fa-envelope"></i></span>
-                
-                <a href="mailto:info@polishopen.dog">info@polishopen.dog</a>
-            </li>
+                <li>
+                    <span><i class="fas fa-envelope"></i></span>
+                    <a href="mailto:{{ $settings.email }}">{{ $settings.email }}</a>
+                </li>
             
-                <li class="info-block__item info-block__item--contact-secondary">
+                <li>
+                    <span><i class="fas fa-users"></i></span>
+                    <a href="{{ $settings.fbgroup }}">{{ $settings.fbgroup_title }}</a>
+                </li>   
+            </ul>
+        </div>
+    </div>
 
-                            <span class="df-icon-custom"><i class="fas fa-users"></i></span>
-                
-                <a class="info-block__link" href="https://www.facebook.com/groups/546826853053199">
-                    Polish Open - FB discussion for competitors     </a>
-            </li>
-        
-        
-    </ul>
-</div>
-</div>
-        <div class="header-sub-container">
-            <div class="container">
-                <div class="header-sub">
+    <div class="header-sub-container">
+        <div class="container">
+            <div class="header-sub">
                 <nav class="main-nav">
                     {{ range $settings.menu }}
                     <div {{ if .submenu }}class="sub"{{ end }}>
@@ -63,10 +56,20 @@
                     </div>
                     {{ end }}
                 </nav>
-                </div>
-            </div>
 
+                <ul class="social-links">
+                    {{ range $settings.socials }}
+                    {{ $env := eq .icon "fa-envelope" }}
+                    <li>
+                        <a href="{{ .url }}" target="_blank" title="{{ .title }}">
+                            <i class="{{ if $env }}far{{ else }}fab{{ end }} {{ .icon }}"></i>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
         </div>
+    </div>
 
 <!---
 <div class="header-bar">

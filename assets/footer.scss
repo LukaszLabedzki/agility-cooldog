@@ -1,0 +1,42 @@
+.footer {
+	padding-top: 80px;
+	background: $col-dark;
+
+	h4 {
+		color: #fff;
+	    font-size: 14px;
+	    text-transform: uppercase;
+	    font-weight: 700;
+	}
+
+	a {
+		color: #6b6d70;
+		padding: 10px 0;
+		transition: color 0.3s ease;
+		font-size: 11px;
+		text-transform: uppercase;
+		font-weight: 700;
+
+		&:hover {
+			color: #ffbcbc;
+			text-decoration: none;
+		}
+	}
+
+	&-bottom {
+		background: $col-darker;
+		height: 70px;
+		line-height: 70px;
+		font-family: Montserrat;
+		color: #9a9da2;
+		font-weight: 700;
+		letter-spacing: -0.02em;
+		font-size: 9px;
+		text-transform: uppercase;
+
+		a {
+			font-family: Montserrat;	
+			font-size: 9px;	
+		}
+	}
+}

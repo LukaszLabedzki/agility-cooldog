@@ -14,18 +14,20 @@
 
 
 <body>
-<!-- navigation header -->
-<div class="white-header">
     {{ partial "header.html" .}}
-</div>
 
+{{ if .Params.image }}
+<div class="page-background" style="background-image: url({{ .Params.image }})"></div>
+{{ end }}
 
-<div class="article-container">
-    <h1 class="title">
-        {{.Title}}
-    </h1>
-    <div class="md-content">
-        {{ .Content }}
+<div class="container">
+    <div class="page-content">
+        <div class="card">
+            <div class="card__header">
+                <h4>{{.Title}}</h4>
+            </div>
+            <div class="card__content">{{ .Content }}</div>
+        </div>
     </div>
 </div>
 

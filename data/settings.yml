@@ -42,4 +42,14 @@ pl:
   fbgroup_title: Polish Open - FB dyskusje zawodników
   fbgroup: https://www.facebook.com/groups/546826853053199
   email: info@polishopen.dog
+  socials:
+    - icon: fa-facebook
+      url: https://www.facebook.com/Polishopen.dog
+      title: Facebook
+    - url: https://www.instagram.com/polishopen_agility/
+      icon: fa-instagram
+      title: Instagram
+    - icon: fa-envelope
+      url: mailto:info@polishopen.dog
+      title: E-mail
   footer_logo: /media/logo-512x512-biale-transparentne-1-300x300.png

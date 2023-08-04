@@ -1,67 +1,67 @@
 {{ $data := index site.Data.home  site.Language.Lang }}
 
+{{ $settings := index site.Data.settings site.Language.Lang }}
 
 <div class="footer">
     <div class="container">
-<div class="row">
+      <div class="row">
 
-              
+        <div class="col-sm-6 col-lg-3">
+          <h4>Social media</h4>
 
-              
-                                <div class="col-sm-6 col-lg-3">
+          <ul>
+            <li><a target="_blank" rel="noopener" href="https://www.facebook.com/Polish-OPEN-103112215452340">FB Fanpage</a></li>
+            <li><a target="_blank" rel="noopener" href="https://www.facebook.com/groups/546826853053199">FB Group</a></li>
+            <li><a href="https://www.instagram.com/polishopen_agility/">Instagram</a></li>
+          </ul>
+        </div>
+                
+        <div class="col-sm-6 col-lg-3">
+          <h4>Tournament</h4>
 
-                  
-                  <div class="footer-col-inner">
-                    <div id="nav_menu-4" class="widget widget--footer widget_nav_menu"><div class="widget__content"></div><h4 class="widget__title">Social media</h4><div class="widget__content"><div class="menu-footer-menu-3-column-3-2-container"><ul id="menu-footer-menu-3-column-3-2" class="menu"><li id="menu-item-1487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1487"><a target="_blank" rel="noopener" href="https://www.facebook.com/Polish-OPEN-103112215452340">FB Fanpage</a></li>
-<li id="menu-item-1489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1489"><a target="_blank" rel="noopener" href="https://www.facebook.com/groups/546826853053199">FB Group</a></li>
-<li id="menu-item-1608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1608"><a href="https://www.instagram.com/polishopen_agility/">Instagram</a></li>
-</ul></div></div></div>                 </div>
-                </div>
-                
-                                <div class="col-sm-6 col-lg-3">
-                  <div class="footer-col-inner">
-                    <div id="nav_menu-3" class="widget widget--footer widget_nav_menu"><div class="widget__content"></div><h4 class="widget__title">Tournament</h4><div class="widget__content"><div class="menu-footer-menu-1-column-3-container"><ul id="menu-footer-menu-1-column-3" class="menu"><li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1377 current_page_item menu-item-1476"><a href="https://polishopen.dog/" aria-current="page">Venue</a></li>
-<li id="menu-item-1477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1477"><a href="https://polishopen.dog/rules/">Rules</a></li>
-<li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="https://polishopen.dog/judges/">Judges</a></li>
-<li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="https://polishopen.dog/accomodation/">Accomodation / Camping</a></li>
-<li id="menu-item-2317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2317"><a href="https://polishopen.dog/info/">INFO</a></li>
-</ul></div></div></div>                 </div>
-                </div>
-                
-                                <div class="col-sm-6 col-lg-3">
-                  <div class="footer-col-inner">
-                    <div id="nav_menu-2" class="widget widget--footer widget_nav_menu"><div class="widget__content"></div><h4 class="widget__title">Sponsors</h4><div class="widget__content"><div class="menu-footer-menu-2-column-3-1-container"><ul id="menu-footer-menu-2-column-3-1" class="menu"><li id="menu-item-2248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2248"><a href="https://polishopen.dog/cool-dog-eu/">cool-dog.eu</a></li>
-<li id="menu-item-2246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2246"><a href="https://polishopen.dog/zayma-2/">Zayma</a></li>
-<li id="menu-item-2389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2389"><a href="https://polishopen.dog/retoy/">reToy</a></li>
-<li id="menu-item-2251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2251"><a href="https://polishopen.dog/pik-pik-pl/">pik-pik.pl</a></li>
-<li id="menu-item-2249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2249"><a href="https://polishopen.dog/dream-agility-team/">Dream Agility team</a></li>
-<li id="menu-item-2250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2250"><a href="https://polishopen.dog/game-dog-2/">Game dog</a></li>
-<li id="menu-item-2244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2244"><a href="https://polishopen.dog/pokusa-2/">Pokusa</a></li>
-<li id="menu-item-2245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2245"><a href="https://polishopen.dog/ostolka/">Ostolka</a></li>
-<li id="menu-item-2247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2247"><a href="https://polishopen.dog/asdogs/">ASDOGS</a></li>
-<li id="menu-item-2252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2252"><a href="https://polishopen.dog/laborioso/">Laborioso</a></li>
-<li id="menu-item-2278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2278"><a href="https://polishopen.dog/weehee/">Weehee</a></li>
-<li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394"><a href="https://polishopen.dog/dolina_noteci/">Dolina Noteci</a></li>
-<li id="menu-item-2399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2399"><a href="https://polishopen.dog/m_handmade/">M handmade</a></li>
-<li id="menu-item-2403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2403"><a href="https://polishopen.dog/oki_doggy/">oki-doggy</a></li>
-</ul></div></div></div><div id="text-1" class="widget widget--footer widget_text"><div class="widget__content">     <div class="textwidget"><p><!--
-[contact-form-7 id="7" title="Quick Contact"]
---></p>
-</div>
-    </div></div>                  </div>
-                </div>
-                
-                                  <div class="col-sm-6 col-lg-3">
-                    <div class="footer-col-inner">
-                      <div id="media_image-3" class="widget widget--footer widget_media_image"><div class="widget__content"><img width="300" height="300" src="https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-300x300.png" class="image wp-image-1491  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-300x300.png 300w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-150x150.png 150w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-128x128.png 128w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-32x32.png 32w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-400x400.png 400w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-80x80.png 80w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-356x356.png 356w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-470x470.png 470w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-70x70.png 70w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-100x100.png 100w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1-40x40.png 40w, https://polishopen.dog/wp-content/uploads/2021/10/logo-512x512-biale-transparentne-1.png 512w" sizes="(max-width: 300px) 100vw, 300px"></div></div>                    </div>
-                  </div>
-                
-              
-            </div>
+          <ul>
+            <li><a href="https://polishopen.dog/">Venue</a></li>
+            <li><a href="https://polishopen.dog/rules/">Rules</a></li>
+            <li><a href="https://polishopen.dog/judges/">Judges</a></li>
+            <li><a href="https://polishopen.dog/accomodation/">Accomodation / Camping</a></li>
+            <li><a href="https://polishopen.dog/info/">INFO</a></li>
+          </ul>
+        </div>
+
+        <div class="col-sm-6 col-lg-3">
+          <h4>Sponsors</h4>
+
+          <ul>
+            <li><a href="https://polishopen.dog/zayma-2/">Zayma</a></li>
+            <li><a href="https://polishopen.dog/retoy/">reToy</a></li>
+            <li><a href="https://polishopen.dog/pik-pik-pl/">pik-pik.pl</a></li>
+            <li><a href="https://polishopen.dog/dream-agility-team/">Dream Agility team</a></li>
+            <li><a href="https://polishopen.dog/game-dog-2/">Game dog</a></li>
+            <li><a href="https://polishopen.dog/pokusa-2/">Pokusa</a></li>
+            <li><a href="https://polishopen.dog/ostolka/">Ostolka</a></li>
+            <li><a href="https://polishopen.dog/asdogs/">ASDOGS</a></li>
+            <li><a href="https://polishopen.dog/laborioso/">Laborioso</a></li>
+            <li><a href="https://polishopen.dog/weehee/">Weehee</a></li>
+            <li><a href="https://polishopen.dog/dolina_noteci/">Dolina Noteci</a></li>
+            <li><a href="https://polishopen.dog/m_handmade/">M handmade</a></li>
+            <li><a href="https://polishopen.dog/oki_doggy/">oki-doggy</a></li>
+          </ul>
+        </div>
+                         
+        <div class="col-sm-6 col-lg-3">
+          <a href="{{ .Site.BaseURL | relLangURL }}" class="logo">
+              <img src="{{ $settings.footer_logo }}" alt="Logo">
+          </a>
+        </div>
+      </div>
     </div>
-    <span>
-       © COPYRIGHT 2022 | WEBSITE OWNER COOL-DOG.EU |
-    </span>
+
+
+    <div class="footer-bottom">
+      <div class="container">
+        <a href="https://polishopen.dog">PolishOpen</a> © Copyright 2022 | Website owner <a href="https://cool-dog.eu">Cool-Dog.eu</a>
+      </div>
+    </div>
 </div>
 
 

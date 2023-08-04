@@ -2,17 +2,17 @@ en:
   logo: /media/logo.png
   menu:
     - title: Venue
-      url: /
+      url: /en
     - title: Entries
-      url: /entries
+      url: /en/entries
     - title: Tournament
       submenu:
         - title: Info
-          url: /info
+          url: /en/info
         - title: Rules
-          url: /rules
+          url: /en/rules
         - title: Entries
-          url: /entries
+          url: /en/entries
       url: /
   cats:
     - test,best,mest,dest
@@ -34,9 +34,18 @@ pl:
   logo: /media/logo.png
   menu:
     - title: Zapisy
-      url: /pl/zapisy
-    - title: Home
+      url: /zapisy
+    - title: Lokalizacja
       url: /
+    - title: Zawody
+      url: /
+      submenu:
+        - title: Informacje
+          url: /informacje
+        - title: Zasady
+          url: /zasady
+        - title: Zapisy
+          url: /zapisy
   cats:
     - hello,yello,mello
   fbgroup_title: Polish Open - FB dyskusje zawodników

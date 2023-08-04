@@ -7,15 +7,53 @@ en:
     → Get your own copy of this website in minutes.
     → Edit everything with no single line of code.
     → It's free and open-source!
-  image: /media/wave.jpg
+  image: /media/bgdog.jpg
   copyright: "  © 2017-2022 - OhBonsaï &"
   register: Roneo.org
   registerUrl: https://roneo.org/en
-fr:
-  image: /media/wave.jpg
-  title: Remix, un <span>theme pour Hugo</span> branché sur <span>Netlify CMS</span>
-  slogan: Lorem magna eiusmod ea eu irure exercitation non incididunt.
-  shortDescription: « Quis do pariatur quis nostrud elit in»
-  copyright: "  © 2017-2022 - OhBonsaï &"
-  register: Roneo.org
-  registerUrl: https://roneo.org/en
+  body: >-
+    #### 9-11.02.2024 Legnica / Poland
+
+
+    * Address of the venue: ul.Hangarowa, 59-220 Legnica
+
+    * GPS coordinates: 51.187326919177984, 16.179468050631915
+
+    * Google Maps pin: [competition venue](https://goo.gl/maps/CrBfJM4vEx2U9JJx7)
+
+    * The hall is situated on a former airport, so there is lots of space for parking and walking the dogs.
+
+    * There is a shopping mall about 200m away. 
+
+    * It’s football hall with artificial grass licensed by FIFA.
+
+    * The hall is heated up to 15 degrees above the outdoor temperatures.
+
+    * Camping with electricity – 15 euro/weekend
+
+
+     **CAUTION: the hall can be entered only through revolving door.**
+pl:
+  body: >-
+    #### 9-11.02.2024 Legnica / Poland
+
+
+    * Address of the venue: ul.Hangarowa, 59-220 Legnica
+
+    * GPS coordinates: 51.187326919177984, 16.179468050631915
+
+    * Google Maps pin: [competition venue](https://goo.gl/maps/CrBfJM4vEx2U9JJx7)
+
+    * The hall is situated on a former airport, so there is lots of space for parking and walking the dogs.
+
+    * There is a shopping mall about 200m away. 
+
+    * It’s football hall with artificial grass licensed by FIFA.
+
+    * The hall is heated up to 15 degrees above the outdoor temperatures.
+
+    * Camping with electricity – 15 euro/weekend
+
+
+     **CAUTION: the hall can be entered only through revolving door.**
+  image: /media/bgdog.jpg

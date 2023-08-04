@@ -1,4 +1,14 @@
 en:
   logo: /media/logo.png
+  menu:
+    - title: Home
+      url: /
+    - title: Entries
+      url: /entries
 pl:
   logo: /media/logo.png
+  menu:
+    - title: Zapisy
+      url: /pl/entries
+    - title: Home
+      url: /

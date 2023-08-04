@@ -33,10 +33,10 @@ en:
 pl:
   logo: /media/logo.png
   menu:
-    - title: Zapisy
-      url: /zapisy
     - title: Lokalizacja
       url: /
+    - title: Zapisy
+      url: /zapisy
     - title: Zawody
       url: /
       submenu:

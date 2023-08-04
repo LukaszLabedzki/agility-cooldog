@@ -34,12 +34,23 @@ en:
      **CAUTION: the hall can be entered only through revolving door.**
 
 
-          <details>
-            <summary>hello</summary>
+          {{< rawhtml >}}<details>
+            <summary>Test</summary>
 
             undefined
 
-          </details>
+          </details>{{< /rawhtml >}}
+
+          
+
+    ```
+      <details>
+        <summary>hello</summary>
+
+        undefined
+
+      </details>
+    ```
 pl:
   body: >-
     #### 9-11.02.2024 Legnica / Poland

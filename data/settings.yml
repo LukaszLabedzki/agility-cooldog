@@ -14,6 +14,8 @@ en:
         - title: Entries
           url: /entries
       url: /
+  cats:
+    - test,best,mest,dest
 pl:
   logo: /media/logo.png
   menu:
@@ -21,3 +23,5 @@ pl:
       url: /pl/entries
     - title: Home
       url: /
+  cats:
+    - hello,yello,mello

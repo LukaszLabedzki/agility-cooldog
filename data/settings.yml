@@ -1,5 +1,5 @@
 en:
-  logo: /media/cropped-logowp.png
+  logo: /media/logo.png
   menu:
     - title: Venue
       url: /en
@@ -29,9 +29,9 @@ en:
     - icon: fa-envelope
       url: mailto:info@polishopen.dog
       title: E-mail
-  footer_logo: /media/cropped-logowp.png
+  footer_logo: /media/logo.png
 pl:
-  logo: /media/cropped-logowp.png
+  logo: /media/logo.png
   menu:
     - title: Lokalizacja
       url: /
@@ -61,4 +61,4 @@ pl:
     - icon: fa-envelope
       url: mailto:info@polishopen.dog
       title: E-mail
-  footer_logo: /media/cropped-logowp.png
+  footer_logo: /media/logo.png

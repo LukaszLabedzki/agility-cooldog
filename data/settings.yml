@@ -10,8 +10,9 @@ en:
     - icon: fa-envelope
       url: mailto:info@polishopen.dog
       title: E-mail
-  logo: /media/logo.png
-  footer_logo: /media/logo-512x512-biale-transparentne-1-300x300.png
+  logo: /media/agility-polska.jpg
+  footer_logo: /media/agility-polska.jpg
+  logo_width: "170"
   favicon: /media/cropped-logo-512x512-transparentne-32x32.png
   title: Open Polish Agility Championships 2023
   fbgroup_title: Polish Open - FB discussion for competitors
@@ -45,8 +46,9 @@ pl:
     - icon: fa-envelope
       url: mailto:info@polishopen.dog
       title: E-mail
-  logo: /media/logo.png
-  footer_logo: /media/logo-512x512-biale-transparentne-1-300x300.png
+  logo: /media/agility-polska.jpg
+  footer_logo: /media/agility-polska.jpg
+  logo_width: "170"
   favicon: /media/cropped-logo-512x512-transparentne-32x32.png
   title: Otwarte Mistrzostwa Polski Agility 2023
   fbgroup_title: Polish Open - FB dyskusje zawodników

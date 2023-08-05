@@ -217,7 +217,8 @@
 		top: 40px;
 
 		img {
-			width: 97px;
+			height: 75px;
+			width: auto;
 		}
 	}
 
@@ -231,6 +232,11 @@
 		cursor: pointer;
 		width: 26px;
 		height: 19px;
+	}
+
+	.language-switcher {
+	    right: 10px;
+	    top: 26px;
 	}
 
 	.burger-menu-icon {

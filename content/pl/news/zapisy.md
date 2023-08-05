@@ -5,14 +5,15 @@ image: /media/bgdog.jpg
 ---
 #### 9-11.02.2024 Legnica / Poland
 
-**Link to the entry form: ENTRIES  (from 15.11.2023 20.00)** 
+ **Link do zapisów : Formularz 
+Zapisy od 01.09.2023 godz 20.00 (do 14.09.2023 zostaną zaakceptowane ze wyjątkiem zawodników zalegających z opłatami za poprzednie zawody.**  
 
-**Entry fee:** 90 euros (400PLN) per 3 days (6 runs plus optional final). We accept only entries for all three days.
+**Startowe** : 180 za dwa dni ( Sobota i niedziela  - w tych dniach są biegi liczące się do MP) lub 270 za 3 dni
 
-The accepted entries will be given reference numbers which have to be written in the bank transfer.
+Lista zaakceptowanych zostanie opublikowana na stronie razem z numerami referencyjnymi do przelewów. 
 
-**Limit:** 380 competitors.
+**Limit:** 320 zawodników
 
-The entry fee must be paid by bank transfer until 30.11.2023 (the date of cash inflow is taken into account).
+Startowe musi być zapłacone do 15.09.2023
 
-The entry fee is not refundable. If after paying the entry fee one wants to withdraw from the competition, one may find a person to fill their spot and settle accounts with that person.
+Startowe jest bezzwrotne, zapłacone miejsce może zostać odsprzedane.

@@ -10,7 +10,7 @@ en:
 
     * GPS coordinates: 51.187326919177984, 16.179468050631915
 
-    * Google Maps pin: [competition venue](https://goo.gl/maps/CrBfJM4vEx2U9JJx7)
+    * Google Maps pin: competition venue
 
     * The hall is situated on a former airport, so there is lots of space for parking and walking the dogs.
 
@@ -26,59 +26,43 @@ en:
      **CAUTION: the hall can be entered only through revolving door.**
 
 
-
-
     ![Outside Layout](/media/www-out-1-768x320.png "Outside Layout")
 
-     ﻿
-
-     ﻿
 
     ![Inside Layout](/media/int-2023-768x320.png "Inside Layout")
 
-      ﻿
-
-     ﻿ 
 
     {{< rawhtml >}}<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.7179453696717!2d16.178736109266914!3d51.18612378507569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470f0d8f4eb540ef%3A0x9caa9503786d58ff!2sOlimpijski%20Football%20Club%20Legnica!5e1!3m2!1spl!2spl!4v1634761890685!5m2!1spl!2sp" height="450" width="100%"></iframe>{{</rawhtml >}}
 pl:
   body: >-
-    #### 9-11.02.2024 Legnica / Poland
+    #### 9-11.02.2024 Legnica / Polska
 
 
-    * Address of the venue: ul.Hangarowa, 59-220 Legnica
+    * Adres hali: ul.Hangarowa, 59-220 Legnica
 
-    * GPS coordinates: 51.187326919177984, 16.179468050631915
+    * GPS : 51.187326919177984, 16.179468050631915
 
-    * Google Maps pin: [competition venue](https://goo.gl/maps/CrBfJM4vEx2U9JJx7)
+    * Google Maps pin: [Hala](https://goo.gl/maps/CrBfJM4vEx2U9JJx7)
 
-    * The hall is situated on a former airport, so there is lots of space for parking and walking the dogs.
+    * Hala jest usytuowana na byłym lotnisku, jest dużo miejsca do parkowania i wyprowadzania psów
 
-    * There is a shopping mall about 200m away. 
+    * Centrum handlowe jest 200m od hali.
 
-    * It’s football hall with artificial grass licensed by FIFA.
+    * Jest to hala do piłki nożnej z profesjonalną sztuczną trawą
 
-    * The hall is heated up to 15 degrees above the outdoor temperatures.
+    * Hala jest dogrzewana około 15 stopni powyżej temp zewnetrznej
 
-    * Camping with electricity – 15 euro/weekend
-
-
-     **CAUTION: the hall can be entered only through revolving door.**
+    * P﻿rąd do kampera, przyczepy 60zł za weekend
 
 
+     **Uwaga! do hali prowadzą jedynie obrotowe drzwi**
 
 
     ![Outside Layout](/media/www-out-1-768x320.png "Outside Layout")
 
-     ﻿
-
-     ﻿
 
     ![Inside Layout](/media/int-2023-768x320.png "Inside Layout")
 
-      ﻿
-
-     ﻿ 
 
     {{< rawhtml >}}<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.7179453696717!2d16.178736109266914!3d51.18612378507569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470f0d8f4eb540ef%3A0x9caa9503786d58ff!2sOlimpijski%20Football%20Club%20Legnica!5e1!3m2!1spl!2spl!4v1634761890685!5m2!1spl!2sp" height="450" width="100%"></iframe>{{</rawhtml >}}
   image: /media/bgdog.jpg

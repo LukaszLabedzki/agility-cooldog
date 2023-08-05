@@ -77,102 +77,54 @@
         </div>
     </div>
 
-<div class="header-mobile">
-    <div class="logo">
-        <a href="{{ .Site.BaseURL | relLangURL }}">
-            <img src="{{ $settings.logo }}">
-        </a>
-    </div>
-
-    <a class="burger-menu" href="#"><span class="burger-menu-icon"></span></a>
-</div>
-
-<div class="site-overlay"></div>
-
-<div class="mobile-menu">
-    <div class="logo">
-        <a href="{{ .Site.BaseURL | relLangURL }}">
-            <img src="{{ $settings.logo }}">
-        </a>
-    </div>
-
-    <nav class="side-nav">
-        {{ range $settings.menu }}
-        <div {{ if .submenu }}class="sub"{{ end }}>
-            <a href="{{ .url }}">{{ .title }}</a>
-            {{ if .submenu }}
-            <nav>
-                {{ range .submenu }}
-                <a href="{{ .url }}">{{ .title }}</a>
-                {{ end }}
-            </nav>
-            {{ end }}
-        </div>
-        {{ end }}
-    </nav>
-
-    <ul class="links-box">
-        <li>
-            <span><i class="fas fa-envelope"></i></span>
-            <a href="mailto:{{ $settings.email }}">{{ $settings.email }}</a>
-        </li>
-    
-        <li>
-            <span><i class="fas fa-users"></i></span>
-            <a href="{{ $settings.fbgroup }}">{{ $settings.fbgroup_title }}</a>
-        </li>   
-    </ul>
-</div>
-
-<!---
-<div class="header-bar">
-    <div class="nav logo">
-        <a class="item" href="/#home" data-id="home">
-            <img  src="/ui/logo.png" alt="Logo">
-        </a>
-    </div>
-    <div class="mainer">
-        <div class="nav">
-            <a class="item" href="/#home" data-id="home">{{$glossary.home}}</a>
-
-            <a class="item" href="/#product" data-id="product">
-                <span>{{$glossary.product}}</span>
-                <i class="fa-solid fa-angle-down"></i>
-                <ul>
-                    {{range $cSlug, $c := $existtheme}}
-                    {{$curCategory := index $cMapping $cSlug }}
-                    <li onclick="handleHeaderSubMenuClick(event, '{{ (index $c 0).RelPermalink }}')">{{ $curCategory.name }}</li>
-                    {{ end }}
-                </ul>
+    <div class="header-mobile">
+        <div class="logo">
+            <a href="{{ .Site.BaseURL | relLangURL }}">
+                <img src="{{ $settings.logo }}">
             </a>
-
-            <a class="item" href="/#about" data-id="about">{{$glossary.about}}</a>
-
-            <a class="item" href="/#solution" data-id="solution">
-                  <span>{{$glossary.solution}}</span>
-                  <i class="fa-solid fa-angle-down"></i>
-                  <ul>
-                      {{range $sSlug, $s := $existScenes}}
-                      <li onclick="location.href='{{ (index $s 0).RelPermalink }}'">
-                          {{$curScene := index $sMapping $sSlug }}
-                          <i class="fa-solid {{$curScene.icon}}"></i>
-                          {{ $curScene.name }}
-                      </li>
-                      {{ end }}
-                  </ul>
-              </a>
-
-
-            <a class="item" href="/#news" data-id="news">{{$glossary.news}}</a>
-            <a class="item" href="/#contact" data-id="contact">{{$glossary.contact}}</a>
         </div>
-        <div class="theme">
-            <i class="fas fa-adjust"></i>
-        </div>
-        <div class="lang">{{site.Language.Lang}}</div>
-        <div class="menu">
-            <i class="fa-solid fa-bars"></i>
-        </div>
+
+        <a class="burger-menu" href="#"><span class="burger-menu-icon"></span></a>
     </div>
-</div>
--->
+
+    <div class="site-overlay"></div>
+
+    <div class="mobile-menu">
+        <div class="language-switcher">
+            <a {{ if eq .Site.Language.Lang "pl" }}class="active"{{ end }} href="/"><img src="/img/pl.svg"/> <span>PL</span></a>
+            <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/en"><img src="/img/gb.svg"/> <span>EN</span></a>
+        </div>
+        
+        <div class="logo">
+            <a href="{{ .Site.BaseURL | relLangURL }}">
+                <img src="{{ $settings.logo }}">
+            </a>
+        </div>
+
+        <nav class="side-nav">
+            {{ range $settings.menu }}
+            <div {{ if .submenu }}class="sub"{{ end }}>
+                <a href="{{ .url }}">{{ .title }}</a>
+                {{ if .submenu }}
+                <nav>
+                    {{ range .submenu }}
+                    <a href="{{ .url }}">{{ .title }}</a>
+                    {{ end }}
+                </nav>
+                {{ end }}
+            </div>
+            {{ end }}
+        </nav>
+
+        <ul class="links-box">
+            <li>
+                <span><i class="fas fa-envelope"></i></span>
+                <a href="mailto:{{ $settings.email }}">{{ $settings.email }}</a>
+            </li>
+        
+            <li>
+                <span><i class="fas fa-users"></i></span>
+                <a href="{{ $settings.fbgroup }}">{{ $settings.fbgroup_title }}</a>
+            </li>   
+        </ul>
+    </div>

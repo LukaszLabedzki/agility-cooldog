@@ -8,7 +8,7 @@ image: /media/bgdog.jpg
  **Link do zapisów : Formularz** 
 
 
-**Zapisy od 01.09.2023 godz 20.00 (do 14.09.2023 zostaną zaakceptowane ze wyjątkiem zawodników zalegających z opłatami za poprzednie zawody.**  
+**Zapisy od 01.09.2023 godz 20.00 (do 14.09.2023 zostaną zaakceptowane zgłoszenia wszystkich polskich zawodników ze wyjątkiem zawodników zalegających z opłatami za poprzednie zawody.**
 
 **Startowe** : 180 za dwa dni ( Sobota i niedziela  - w tych dniach są biegi liczące się do MP) lub 270 za 3 dni
 

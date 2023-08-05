@@ -22,7 +22,7 @@
     <div class="header">
         <div class="container">
             <a href="{{ .Site.BaseURL | relLangURL }}" class="logo">
-                <img src="{{ $settings.logo }}" alt="Logo">
+                <img src="{{ $settings.logo }}" alt="Logo" width="{{ $settings.logo_width }}">
             </a>
 
             <ul class="links-box">
@@ -94,7 +94,7 @@
             <a {{ if eq .Site.Language.Lang "pl" }}class="active"{{ end }} href="/"><img src="/img/pl.svg"/> <span>PL</span></a>
             <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/en"><img src="/img/gb.svg"/> <span>EN</span></a>
         </div>
-        
+
         <div class="logo">
             <a href="{{ .Site.BaseURL | relLangURL }}">
                 <img src="{{ $settings.logo }}">

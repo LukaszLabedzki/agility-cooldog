@@ -4,9 +4,6 @@ en:
     - icon: fa-facebook
       url: https://www.facebook.com/mpa2022/
       title: Facebook
-    - url: https://www.instagram.com/polishopen_agility/
-      icon: fa-instagram
-      title: Instagram
     - icon: fa-envelope
       url: mailto:MPagility2022@gmail.com
       title: E-mail
@@ -40,9 +37,6 @@ pl:
     - icon: fa-facebook
       url: https://www.facebook.com/mpa2022/
       title: Facebook
-    - url: https://www.instagram.com/polishopen_agility/
-      icon: fa-instagram
-      title: Instagram
     - icon: fa-envelope
       url: mailto:MPagility2022@gmail.com
       title: E-mail

@@ -75,7 +75,20 @@
 
 <!-- Set Netlify CMS language -->
 <script type="text/javascript">
-    window.onload = function() {
-      netlifyIdentity.setLocale('en')
-    }
+  const overlay = document.querySelector('.site-overlay');
+  const mobileMenu = document.querySelector('.mobile-menu');
+  const burgerMenu = document.querySelector('.burger-menu');
+
+  if(overlay && mobileMenu && burgerMenu) {
+    overlay.addEventListener('click', () => {
+      overlay.classList.toggle('active');
+      mobileMenu.classList.toggle('active');
+    })
+
+    burgerMenu.addEventListener('click', () => {
+      mobileMenu.classList.toggle('active');
+      overlay.classList.toggle('active');
+    })
+  }
+
 </script>

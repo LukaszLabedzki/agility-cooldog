@@ -3,11 +3,18 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
+
+	@media (max-width: $breakpoint-mobile) {
+		height: 100px;
+	}
 }
 
 .page-content {
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding: 60px 0;
+
+	@media (max-width: $breakpoint-mobile) {
+		padding: 30px 0;
+	}
 
 	.card__header {
 	    display: flex;

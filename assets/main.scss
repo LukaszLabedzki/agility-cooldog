@@ -5,8 +5,14 @@ $col-main-red: #bf1b2b;
 $col-dark: #1e2024;
 $col-darker: #16171a;
 
+$breakpoint-mobile: 1000px;
+
 body {
   font-family: 'Montserrat';
+
+  @media (max-width: $breakpoint-mobile) {
+    padding-top: 80px;
+  }  
 }
 
 @import "./common.scss";

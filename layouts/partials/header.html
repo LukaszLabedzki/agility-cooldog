@@ -71,6 +71,53 @@
         </div>
     </div>
 
+<div class="header-mobile">
+    <div class="logo">
+        <a href="{{ .Site.BaseURL | relLangURL }}">
+            <img src="{{ $settings.logo }}">
+        </a>
+    </div>
+
+    <a class="burger-menu" href="#"><span class="burger-menu-icon"></span></a>
+</div>
+
+<div class="site-overlay"></div>
+
+<div class="mobile-menu">
+    <div class="logo">
+        <a href="{{ .Site.BaseURL | relLangURL }}">
+            <img src="{{ $settings.logo }}">
+        </a>
+    </div>
+
+    <nav class="side-nav">
+        {{ range $settings.menu }}
+        <div {{ if .submenu }}class="sub"{{ end }}>
+            <a href="{{ .url }}">{{ .title }}</a>
+            {{ if .submenu }}
+            <nav>
+                {{ range .submenu }}
+                <a href="{{ .url }}">{{ .title }}</a>
+                {{ end }}
+            </nav>
+            {{ end }}
+        </div>
+        {{ end }}
+    </nav>
+
+    <ul class="links-box">
+        <li>
+            <span><i class="fas fa-envelope"></i></span>
+            <a href="mailto:{{ $settings.email }}">{{ $settings.email }}</a>
+        </li>
+    
+        <li>
+            <span><i class="fas fa-users"></i></span>
+            <a href="{{ $settings.fbgroup }}">{{ $settings.fbgroup_title }}</a>
+        </li>   
+    </ul>
+</div>
+
 <!---
 <div class="header-bar">
     <div class="nav logo">

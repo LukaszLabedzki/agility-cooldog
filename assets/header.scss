@@ -366,3 +366,38 @@
 	    background-color: rgba(0, 0, 0, 0.8);
 	}
 }
+
+.language-switcher {
+	display: flex;
+	position: absolute;
+	right: 0;
+	top: 15px;
+
+	img {
+		width: 30px;
+		margin-right: 4px;
+	}
+
+	a {
+		color: #31404b;
+		display: flex;
+		align-items: center;
+
+		&:hover {
+			text-decoration: none;
+		}
+
+		&:last-child {
+			margin-left: 10px;
+		}
+
+		&.active {
+			font-weight: 700;
+		}
+
+		span {
+			display: block;
+			width: 20px;
+		}
+	}
+}

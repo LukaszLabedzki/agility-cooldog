@@ -1,5 +1,5 @@
 en:
-  fbgroup: https://www.facebook.com/groups/546826853053199
+  fbgroup: https://www.facebook.com/groups/1099099470997357
   socials:
     - icon: fa-facebook
       url: https://www.facebook.com/Polishopen.dog
@@ -15,7 +15,7 @@ en:
   logo_width: "170"
   favicon: /media/cropped-logo-512x512-transparentne-32x32.png
   title: Open Polish Agility Championships 2023
-  fbgroup_title: Polish Open - FB discussion for competitors
+  fbgroup_title: Polish Agility Championships - discussion for agility competitors
   email: info@polishopen.dog
   description: Open Polish Agility Championships 2023
   cats:
@@ -51,7 +51,7 @@ pl:
   logo_width: "170"
   favicon: /media/cropped-logo-512x512-transparentne-32x32.png
   title: Otwarte Mistrzostwa Polski Agility 2023
-  fbgroup_title: Polish Open - FB dyskusje zawodników
+  fbgroup_title: Mistrzostwa Polski Agility - FB dyskusje zawodników
   email: info@polishopen.dog
   description: Otwarte Mistrzostwa Polski Agility 2023
   cats:

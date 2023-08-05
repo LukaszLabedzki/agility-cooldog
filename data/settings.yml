@@ -1,5 +1,24 @@
 en:
+  fbgroup: https://www.facebook.com/groups/546826853053199
+  socials:
+    - icon: fa-facebook
+      url: https://www.facebook.com/Polishopen.dog
+      title: Facebook
+    - url: https://www.instagram.com/polishopen_agility/
+      icon: fa-instagram
+      title: Instagram
+    - icon: fa-envelope
+      url: mailto:info@polishopen.dog
+      title: E-mail
   logo: /media/logo.png
+  footer_logo: /media/logo.png
+  favicon: /media/cropped-logo-512x512-transparentne-32x32.png
+  title: Otwarte Mistrzostwa Polski Agility 2023
+  fbgroup_title: Polish Open - FB discussion for competitors
+  email: info@polishopen.dog
+  description: Otwarte Mistrzostwa Polski Agility 2023
+  cats:
+    - test,best,mest,dest
   menu:
     - title: Venue
       url: /en
@@ -14,11 +33,8 @@ en:
         - title: Entries
           url: /en/entries
       url: /
-  cats:
-    - test,best,mest,dest
+pl:
   fbgroup: https://www.facebook.com/groups/546826853053199
-  email: info@polishopen.dog
-  fbgroup_title: Polish Open - FB discussion for competitors
   socials:
     - icon: fa-facebook
       url: https://www.facebook.com/Polishopen.dog
@@ -29,9 +45,15 @@ en:
     - icon: fa-envelope
       url: mailto:info@polishopen.dog
       title: E-mail
-  footer_logo: /media/logo.png
-pl:
   logo: /media/logo.png
+  footer_logo: /media/logo.png
+  favicon: /media/cropped-logo-512x512-transparentne-32x32.png
+  title: Open Polish Agility Championships 2023
+  fbgroup_title: Polish Open - FB dyskusje zawodników
+  email: info@polishopen.dog
+  description: Open Polish Agility Championships 2023
+  cats:
+    - hello,yello,mello
   menu:
     - title: Lokalizacja
       url: /
@@ -46,19 +68,3 @@ pl:
           url: /zasady
         - title: Zapisy
           url: /zapisy
-  cats:
-    - hello,yello,mello
-  fbgroup_title: Polish Open - FB dyskusje zawodników
-  fbgroup: https://www.facebook.com/groups/546826853053199
-  email: info@polishopen.dog
-  socials:
-    - icon: fa-facebook
-      url: https://www.facebook.com/Polishopen.dog
-      title: Facebook
-    - url: https://www.instagram.com/polishopen_agility/
-      icon: fa-instagram
-      title: Instagram
-    - icon: fa-envelope
-      url: mailto:info@polishopen.dog
-      title: E-mail
-  footer_logo: /media/logo.png

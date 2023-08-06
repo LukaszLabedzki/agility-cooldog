@@ -17,7 +17,7 @@ local_backend: true
 i18n:
   structure: multiple_folders
   locales: [ en, pl ]
-  default_locale: en
+  default_locale: pl
 
 
 # collections configuration
@@ -25,7 +25,7 @@ collections:
   - name: "sections"
     label: "Global settings"
     i18n:
-      structure: single_file
+      structure: single_file 
       locales: [ en, pl ]
     files:
       - file: "data/settings.yml"
@@ -41,7 +41,7 @@ collections:
           { label: "Footer Logo", name: "footer_logo", widget: "image" , media_folder: "/static/media" , public_folder: "/media", i18n: true },
           { label: "FB Group URL", name: "fbgroup", widget: "string" , i18n: true },
           { label: "FB Group Title", name: "fbgroup_title", widget: "string" , i18n: true },
-          { label: "Contact Email", name: "email", widget: "string" , i18n: true },
+          { label: "Contact Emails", name: "email", widget: "string" , i18n: true },
           { label: "Menu Items", name: "menu", widget: "list", i18n: true, fields: [
             { label: "Link Title", name: "title", widget: string , i18n: true },
             { label: "URL", name: "url", widget: string, i18n: true },
@@ -54,6 +54,11 @@ collections:
             { label: "Title", name: "title", widget: string , i18n: true },
             { label: "Icon", name: "icon", widget: string , i18n: true },
             { label: "URL", name: "url", widget: string, i18n: true }
+          ] },
+          { label: "Footer menu", name: "footer_menu", widget: "list", i18n: true, fields: [
+            { label: "Title", name: "title", widget: string , i18n: true },
+            { label: "URL", name: "url", widget: string, i18n: true },
+            { label: "Open in new window", name: "new_window", widget: "boolean" , i18n: true }
           ] }
         ]
       - file: "data/home.yml"

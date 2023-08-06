@@ -92,7 +92,7 @@
             {{ end }}
 
             {{ if eq .Site.Language.Lang "pl" }}
-            <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/{{ if .Params.slug_lng }}en{{ .Params.slug_lng }}{{ else }}en{{ end }}"><img src="/img/gb.svg"/> <span>EN</span></a>
+            <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/{{ if .Params.slug_lng }}en/{{ .Params.slug_lng }}{{ else }}en{{ end }}"><img src="/img/gb.svg"/> <span>EN</span></a>
             {{ end }}
         </div>
     </div>

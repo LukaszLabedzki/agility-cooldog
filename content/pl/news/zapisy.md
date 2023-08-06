@@ -1,6 +1,7 @@
 ---
 title: Zapisy
 slug: zapisy
+slug_lng: en/entries
 image: /media/bgdog.jpg
 ---
 #### 9-11.02.2024 Legnica / Poland

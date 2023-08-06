@@ -1,4 +1,30 @@
 en:
+  footer_menu:
+    - title: Social Media
+      items:
+        - title: FB Fanpage
+          url: https://www.facebook.com/mpa2022/
+          new_window: true
+        - title: FB Group
+          url: https://www.facebook.com/groups/1099099470997357
+          new_window: true
+    - title: Tournament
+      items:
+        - title: Venue
+          url: /en
+          new_window: false
+        - title: Rules
+          url: /en/rules
+          new_window: false
+        - title: Judges
+          url: /en/judges
+          new_window: false
+        - title: Accomodation/Camping
+          url: /en/accomodation
+          new_window: false
+        - title: Info
+          url: /en/info
+          new_window: false
   fbgroup: https://www.facebook.com/groups/1099099470997357
   socials:
     - icon: fa-facebook
@@ -32,6 +58,32 @@ en:
           url: /en/entries
       url: /
 pl:
+  footer_menu:
+    - title: Social Media
+      items:
+        - title: FB Strona
+          url: https://www.facebook.com/mpa2022/
+          new_window: true
+        - title: FB Grupa
+          url: https://www.facebook.com/groups/1099099470997357
+          new_window: true
+    - title: Zawody
+      items:
+        - title: Lokalizacja
+          url: /lokalizacja
+          new_window: false
+        - title: Zasady
+          url: /zasady
+          new_window: false
+        - title: Sędziowie
+          url: /sedziowie
+          new_window: false
+        - title: Zakwaterowanie/Camping
+          url: /zakwaterowanie
+          new_window: false
+        - title: Informacje
+          url: /info
+          new_window: false
   fbgroup: https://www.facebook.com/groups/1099099470997357
   socials:
     - icon: fa-facebook

@@ -98,6 +98,13 @@
 	.card__content {
 	    padding: 24px 24px;
 	    position: relative;
+
+	    p {
+	    	img {
+	    	    width: 16px;
+    			margin-top: -4px;
+	    	}
+	    }
 	}
 
 	ul {

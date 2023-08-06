@@ -12,6 +12,6 @@ Od zawsze łączyliśmy piękno z funkcjonalnością. Smycze i obroże mogą by�
 
 Zaopatrujemy się w Polskich hurtowniach.
 
-Nasze produkty to wyrób rzemieślniczy w związku z czym mogą pojawić się niedoskonałości estetyczne nie mające wpływu na wytrzymałość produktu… ![😉](https://s.w.org/images/core/emoji/14.0.0/svg/1f609.svg)
+Nasze produkty to wyrób rzemieślniczy w związku z czym mogą pojawić się niedoskonałości estetyczne nie mające wpływu na wytrzymałość produktu…😉
 
 Poznajcie nas bliżej i rozgośćcie się na naszym profilu FACEBOOK ASDogs

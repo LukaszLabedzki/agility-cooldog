@@ -2,6 +2,10 @@
 	padding-top: 80px;
 	background: $col-dark;
 
+	> .container {
+		padding-bottom: 40px;
+	}
+
 	h4 {
 		color: #fff;
 	    font-size: 14px;

@@ -4,4 +4,4 @@ slug: sedziowie
 slug_lng: judges
 image: /media/bgdog.jpg
 ---
-**S﻿ędziowie**
+![Sędziowie](/media/img_7615.png "Sędziowie")

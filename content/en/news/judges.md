@@ -4,4 +4,4 @@ slug: judges
 slug_lng: sedziowie
 image: /media/bgdog.jpg
 ---
-**J﻿udges**
+![Judges](/media/img_7615.png "Judges")

@@ -1,7 +1,7 @@
 ---
 title: Informacje
 slug: informacje
-slug_lng: en/info
+slug_lng: info
 image: /media/bgdog.jpg
 ---
 

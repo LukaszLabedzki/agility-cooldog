@@ -38,8 +38,8 @@
             </ul>
 
             <div class="language-switcher">
-                <a {{ if eq .Site.Language.Lang "pl" }}class="active"{{ end }} href="/"><img src="/img/pl.svg"/> <span>PL</span></a>
-                <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/en"><img src="/img/gb.svg"/> <span>EN</span></a>
+                <a {{ if eq .Site.Language.Lang "pl" }}class="active"{{ end }} href="/{{ if .Params.slug_lng }}{{ .Params.slug_lng }}{{ end }}"><img src="/img/pl.svg"/> <span>PL</span></a>
+                <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/{{ if .Params.slug_lng }}en/{{ .Params.slug_lng }}{{ else }}en{{ end }}"><img src="/img/gb.svg"/> <span>EN</span></a>
             </div>
 
         </div>
@@ -88,11 +88,11 @@
 
         <div class="language-switcher">
             {{ if eq .Site.Language.Lang "en" }}
-            <a {{ if eq .Site.Language.Lang "pl" }}class="active"{{ end }} href="/"><img src="/img/pl.svg"/> <span>PL</span></a>
+            <a {{ if eq .Site.Language.Lang "pl" }}class="active"{{ end }} href="/{{ if .Params.slug_lng }}{{ .Params.slug_lng }}{{ end }}"><img src="/img/pl.svg"/> <span>PL</span></a>
             {{ end }}
 
             {{ if eq .Site.Language.Lang "pl" }}
-            <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/en"><img src="/img/gb.svg"/> <span>EN</span></a>
+            <a {{ if eq .Site.Language.Lang "en" }}class="active"{{ end }} href="/{{ if .Params.slug_lng }}{{ .Params.slug_lng }}{{ else }}en{{ end }}"><img src="/img/gb.svg"/> <span>EN</span></a>
             {{ end }}
         </div>
     </div>

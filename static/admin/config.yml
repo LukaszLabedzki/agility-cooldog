@@ -84,6 +84,7 @@ collections:
       [
         { label: "Title", name: "title", widget: "string" },
         { label: "Slug", name: "slug", widget: "string" },
+        { label: "Slug (pl)", name: "slug_lng", widget: "string" },
         { label: "Background Image", name: "image", widget: "image", required: false },
         { label: ".", name: "body", widget: "markdown" },
       ]
@@ -98,6 +99,7 @@ collections:
       [
         { label: "Title", name: "title", widget: "string" },
         { label: "Slug", name: "slug", widget: "string" },
+        { label: "Slug (en)", name: "slug_lng", widget: "string" },
         { label: "Background Image", name: "image", widget: "image", required: false },
         { label: "Body", name: "body", widget: "markdown" },
       ]

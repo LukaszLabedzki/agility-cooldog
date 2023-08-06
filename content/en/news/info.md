@@ -1,6 +1,7 @@
 ---
 title: Info
 slug: info
+slug_lng: informacje
 image: /media/bgdog.jpg
 ---
 #### TRAVELING TO POLAND

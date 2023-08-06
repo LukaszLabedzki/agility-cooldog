@@ -56,9 +56,12 @@ collections:
             { label: "URL", name: "url", widget: string, i18n: true }
           ] },
           { label: "Footer menu", name: "footer_menu", widget: "list", i18n: true, fields: [
-            { label: "Title", name: "title", widget: string , i18n: true },
-            { label: "URL", name: "url", widget: string, i18n: true },
-            { label: "Open in new window", name: "new_window", widget: "boolean" , i18n: true }
+            { label: "Title", name: "title", widget: string, i18n: true },
+            { label: "Items", name: "items", widget: "list", i18n: true, fields: [
+              { label: "Title", name: "title", widget: string , i18n: true },
+              { label: "URL", name: "url", widget: string, i18n: true },
+              { label: "Open in new window", name: "new_window", widget: "boolean" , i18n: true }
+            ] }
           ] }
         ]
       - file: "data/home.yml"

@@ -4,7 +4,7 @@ slug: zasady
 slug_lng: rules
 image: /media/rules.jpg
 ---
-##### **ORGANIZER:** [ZKWP O/ LEGNICA](http://legnica.zkwp.pl/) ( POLISH KENNEL CLUB LEGNICA), [COOL-DOG.EU](http://cool-dog.eu/)  ROMAN MARUSZCZAK
+##### **ORGANIZATOR** [ZKWP O/ LEGNICA](http://legnica.zkwp.pl/) , [COOL-DOG.EU](http://cool-dog.eu/)  ROMAN MARUSZCZAK
 
 <!--StartFragment-->
 

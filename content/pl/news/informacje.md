@@ -5,6 +5,7 @@ slug_lng: info
 image: /media/bgdog.jpg
 ---
 **ZAWODY**
+
 Rozpiska czasowa zostanie opublikowana na stronie w późniejszym terminie.
 Opublikowana rozpiska czasowa jest jedynie orientacyjna – jeśli dany bieg zakończy
 się wcześniej niż planowano, natychmiast rozpoczniemy budowę kolejnego toru, a
@@ -30,6 +31,7 @@ biegu – zwycięzców prosimy o gotowość do stawienia się na podium.
 
 
 **WYMAGANE DOKUMENTY**
+
 Przez zawodami będzie przeprowadzona rejestracja, podczas której będą
 sprawdzane paszporty i chipy psów. Zawodnicy zobowiązani są przedstawić
 świadectwo ważnego szczepienia przeciwko wściekliźnie, w przeciwnym wypadku
@@ -39,6 +41,7 @@ wpisany wynik w książeczkę, prosimy o zgłoszenie się do sekretariatu podcza
 którejś z przerw w biegach.
 
 **HALA**
+
 Hala będzie zamykana na noc, można więc tam zostawić swoje rzeczy.
 Na hali znajdują się niewielkie trybuny, można jednak wnieść swoje krzesełka, jeśli
 ktoś woli.

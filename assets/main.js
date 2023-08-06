@@ -7,10 +7,6 @@ function captureTable(html) {
 }
 
 function captureStyle(html) {
-  //const styleRegex = /<style(?:(?!<\/style>)[\s\S])*<\/style>/i;
-  //const match = html.match(styleRegex);
-  //return match ? match[0] : null;
-
   const styleRegex = /<style[^>]*>([^<]*)<\/style>/i;
   const matches = html.match(styleRegex);
 
@@ -20,15 +16,9 @@ function captureStyle(html) {
   }
 
   return false;
-
-  //const styleRegex = /<style[^>]*>[\s\S]*?<\/style>/i;
-  //const match = html.match(styleRegex);
-  //return match ? match[0] : null;  
 }
 
 function init() {
-  console.log('hello')
-
   const spreadsheets = document.querySelectorAll('.google-spreadsheet');
 
   for ( let spreadsheet of spreadsheets ) {
@@ -63,7 +53,7 @@ function init() {
         })
         .catch(function (response) {
             // "Not Found"
-            console.log('rere', response.statusText);
+            console.log(response.statusText);
         });
     }
   }

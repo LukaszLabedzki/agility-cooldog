@@ -5,46 +5,26 @@
 <div class="footer">
     <div class="container">
       <div class="row">
-
+        {{ range $settings.footer_menu }}
         <div class="col-sm-6 col-lg-3">
-          <h4>Social media</h4>
-
+          <h4>{{ .title }}</h4>
           <ul>
-            <li><a target="_blank" rel="noopener" href="https://www.facebook.com/Polish-OPEN-103112215452340">FB Fanpage</a></li>
-            <li><a target="_blank" rel="noopener" href="https://www.facebook.com/groups/546826853053199">FB Group</a></li>
-            <li><a href="https://www.instagram.com/polishopen_agility/">Instagram</a></li>
+            {{ range .items }}
+            <li><a {{ if .new_window }}target="_blank" rel="noopener"{{ end }} href="{{ .url }}">{{ .title }}</a></li>
+            {{ end }}
           </ul>
         </div>
-                
-        <div class="col-sm-6 col-lg-3">
-          <h4>Tournament</h4>
-
-          <ul>
-            <li><a href="https://polishopen.dog/">Venue</a></li>
-            <li><a href="https://polishopen.dog/rules/">Rules</a></li>
-            <li><a href="https://polishopen.dog/judges/">Judges</a></li>
-            <li><a href="https://polishopen.dog/accomodation/">Accomodation / Camping</a></li>
-            <li><a href="https://polishopen.dog/info/">INFO</a></li>
-          </ul>
-        </div>
+        {{ end }}
 
         <div class="col-sm-6 col-lg-3">
           <h4>Sponsors</h4>
 
           <ul>
-            <li><a href="https://polishopen.dog/zayma-2/">Zayma</a></li>
-            <li><a href="https://polishopen.dog/retoy/">reToy</a></li>
-            <li><a href="https://polishopen.dog/pik-pik-pl/">pik-pik.pl</a></li>
-            <li><a href="https://polishopen.dog/dream-agility-team/">Dream Agility team</a></li>
-            <li><a href="https://polishopen.dog/game-dog-2/">Game dog</a></li>
-            <li><a href="https://polishopen.dog/pokusa-2/">Pokusa</a></li>
-            <li><a href="https://polishopen.dog/ostolka/">Ostolka</a></li>
-            <li><a href="https://polishopen.dog/asdogs/">ASDOGS</a></li>
-            <li><a href="https://polishopen.dog/laborioso/">Laborioso</a></li>
-            <li><a href="https://polishopen.dog/weehee/">Weehee</a></li>
-            <li><a href="https://polishopen.dog/dolina_noteci/">Dolina Noteci</a></li>
-            <li><a href="https://polishopen.dog/m_handmade/">M handmade</a></li>
-            <li><a href="https://polishopen.dog/oki_doggy/">oki-doggy</a></li>
+            {{ range where site.AllPages "Type" "sponsors" }}
+              {{ if not (eq .Title "Sponsors") }}
+              <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+              {{ end }}
+            {{ end }}
           </ul>
         </div>
                          
@@ -59,7 +39,7 @@
 
     <div class="footer-bottom">
       <div class="container">
-        <a href="https://polishopen.dog">PolishOpen</a> © Copyright 2022 | Website owner <a href="https://cool-dog.eu">Cool-Dog.eu</a>
+        <a href="https://polishopen.dog">PolishOpen</a> © Copyright {{ now.Year }} | Website owner <a href="https://cool-dog.eu">Cool-Dog.eu</a>
       </div>
     </div>
 </div>

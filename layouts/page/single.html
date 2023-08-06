@@ -16,20 +16,20 @@
 <body>
     {{ partial "header.html" .}}
 
-    {{ if .Params.image }}
-    <div class="page-background" style="background-image: url({{ .Params.image }})"></div>
-    {{ end }}
+{{ if .Params.image }}
+<div class="page-background" style="background-image: url({{ .Params.image }})"></div>
+{{ end }}
 
-    <div class="container">
-        <div class="page-content">
-            <div class="card">
-                <div class="card__header">
-                    <h4>{{.Title}}</h4>
-                </div>
-                <div class="card__content">{{ .Content }}</div>
+<div class="container">
+    <div class="page-content">
+        <div class="card">
+            <div class="card__header">
+                <h4>{{.Title}}</h4>
             </div>
+            <div class="card__content">{{ .Content }}</div>
         </div>
     </div>
+</div>
 
 <!-- footer copyright -->
 {{ partial "footer.html" .}}

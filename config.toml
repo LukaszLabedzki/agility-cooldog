@@ -2,14 +2,13 @@ baseURL = 'https://agilitypoland.dog/'
 languageCode = 'pl-pl'
 defaultContentLanguage = 'pl'
 
-
 [params]
   title = 'Mistrzostwa Polski Agility 2023'
   metaDescription = "Mistrzostwa Polski Agility 2023"
 
 [languages]
   [languages.en]
-    contentDir = 'content/english'
+    contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
@@ -19,6 +18,7 @@ defaultContentLanguage = 'pl'
     [languages.en.permalinks]
       [languages.en.permalinks.page]
         news = '/:slug/'
+        sponsors = '/:slug/'
   [languages.pl]
     contentDir = 'content/pl'
     disabled = false
@@ -30,3 +30,4 @@ defaultContentLanguage = 'pl'
     [languages.pl.permalinks]
       [languages.pl.permalinks.page]
         news = '/:slug/'
+        sponsors = '/sponsors/:slug/'

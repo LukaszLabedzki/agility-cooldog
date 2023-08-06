@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
+<!-- head link and script -->
+{{ partial "head.html" .}}
+
+<!-- Generate CSS -->
+{{ $options := (dict "enableSourceMap" true ) }}
+{{ $productStyle := resources.Get "news.scss" | resources.ToCSS $options | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $productStyle.RelPermalink }}" integrity="{{ $productStyle.Data.Integrity }}" />
+
+{{ $productStyle := resources.Get "markdown.scss" | resources.ToCSS $options | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $productStyle.RelPermalink }}" integrity="{{ $productStyle.Data.Integrity }}" />
+
+
+<body>
+    {{ partial "header.html" .}}
+
+    <div class="container">
+        <div class="page-content sponsors">
+            <div class="card">
+                <div class="card__header">
+                    {{ if not .Params.logo }}<h4>{{.Title}}</h4>{{ end }}
+                    {{ if .Params.logo }}<img src="{{ .Params.logo }}"/>{{ end }}
+                </div>
+                <div class="card__content">
+                    {{ .Content }}
+
+                    <div class="socials">
+                        {{ if .Params.facebook }}<a href="{{ .Params.facebook }}" class="social-links__link social-link-url" title="Facebook"><i class="fab fa-facebook"></i></a>{{ end }}
+                        {{ if .Params.instagram }}<a href="{{ .Params.instagram }}" class="social-links__link social-link-url" title="Instagram"><i class="fab fa-instagram"></i></a>{{ end }}
+                    </div>
+                </div>
+
+                {{ if .Params.website }}
+                <footer class="card__footer">
+                    <a href="{{ .Params.website_url }}" title="{{ .Params.website }}" target="_blank">{{ .Params.website }}</a>
+                </footer>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+
+<!-- footer copyright -->
+{{ partial "footer.html" .}}
+</body>
+
+</html>

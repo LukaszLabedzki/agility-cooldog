@@ -41,7 +41,7 @@ collections:
           { label: "Footer Logo", name: "footer_logo", widget: "image" , media_folder: "/static/media" , public_folder: "/media", i18n: true },
           { label: "FB Group URL", name: "fbgroup", widget: "string" , i18n: true },
           { label: "FB Group Title", name: "fbgroup_title", widget: "string" , i18n: true },
-          { label: "Contact Emails", name: "email", widget: "string" , i18n: true },
+          { label: "Contact Email", name: "email", widget: "string" , i18n: true },
           { label: "Menu Items", name: "menu", widget: "list", i18n: true, fields: [
             { label: "Link Title", name: "title", widget: string , i18n: true },
             { label: "URL", name: "url", widget: string, i18n: true },
@@ -60,7 +60,7 @@ collections:
             { label: "Items", name: "items", widget: "list", i18n: true, fields: [
               { label: "Title", name: "title", widget: string , i18n: true },
               { label: "URL", name: "url", widget: string, i18n: true },
-              { label: "Open in new window", name: "new_window", widget: "boolean" , i18n: true }
+              { label: "Open in new window", name: "new_window", widget: "boolean" , i18n: true, required: false }
             ] }
           ] }
         ]
@@ -75,7 +75,7 @@ collections:
         ]
   - name: "news"
     label: "Pages (en)"
-    folder: "content/english/news"
+    folder: "content/en/news"
     path: "{{slug}}"
     media_folder: "{{media_folder}}"
     public_folder: "{{public_folder}}"
@@ -84,7 +84,7 @@ collections:
       [
         { label: "Title", name: "title", widget: "string" },
         { label: "Slug", name: "slug", widget: "string" },
-        { label: "Background Image", name: "image", widget: "image" },
+        { label: "Background Image", name: "image", widget: "image", required: false },
         { label: ".", name: "body", widget: "markdown" },
       ]
   - name: "news-pl"
@@ -98,6 +98,27 @@ collections:
       [
         { label: "Title", name: "title", widget: "string" },
         { label: "Slug", name: "slug", widget: "string" },
-        { label: "Background Image", name: "image", widget: "image" },
+        { label: "Background Image", name: "image", widget: "image", required: false },
         { label: "Body", name: "body", widget: "markdown" },
+      ]
+  - name: "sponsors"
+    label: "Sponsors"
+    folder: "content/pl/sponsors"
+    path: "{{slug}}"
+    media_folder: "{{media_folder}}"
+    public_folder: "{{public_folder}}"
+    create: true
+    fields:
+      [
+        { label: "Title", name: "title", widget: "string" },
+        { label: "Slug", name: "slug", widget: "string" },
+        { label: "Logo", name: "logo", widget: "image", required: false },
+        { label: "Body", name: "body", widget: "markdown" },
+        { label: "Facebook", name: "facebook", widget: "string", required: false },
+        { label: "Instagram", name: "instagram", widget: "string", required: false },
+        { label: "Website Title", name: "website", widget: "string", required: false },
+        { label: "Website URL", name: "website_url", widget: "string", required: false },
+        { label: "Gallery", name: "gallery", widget: "list", i18n: true, fields: [
+          { label: "Image", name: "image", widget: "image" }
+        ] }
       ]

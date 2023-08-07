@@ -67,7 +67,7 @@ pl:
     ![Inside Layout](/media/int-2023-768x320.png "Inside Layout")
 
 
-    {{< rawhtml >}}<iframe src="" height="" width="100%"></iframe>{{</rawhtml >}}
+    {{< rawhtml >}}<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.7179453696717!2d16.178736109266914!3d51.18612378507569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470f0d8f4eb540ef%3A0x9caa9503786d58ff!2sOlimpijski%20Football%20Club%20Legnica!5e1!3m2!1spl!2spl!4v1634761890685!5m2!1spl!2sp" height="450" width="100%"></iframe>{{</rawhtml >}}
   image: /media/bgdog.jpg
   title: Lokalizacja
   slogan: Slogan po polsku

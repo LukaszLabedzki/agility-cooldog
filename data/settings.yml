@@ -33,6 +33,7 @@ en:
     - icon: fa-envelope
       url: mailto:MPagility2022@gmail.com
       title: E-mail
+  social_image: /media/ogimage.jpg
   logo: /media/agility-polska.jpg
   footer_logo: /media/agility-polska-removebg-preview.png
   logo_width: "170"
@@ -94,6 +95,7 @@ pl:
     - icon: fa-envelope
       url: mailto:MPagility2022@gmail.com
       title: E-mail
+  social_image: /media/ogimage.jpg
   logo: /media/agility-polska.jpg
   footer_logo: /media/agility-polska-removebg-preview.png
   logo_width: "170"

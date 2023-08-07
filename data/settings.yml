@@ -72,7 +72,7 @@ pl:
     - title: Zawody
       items:
         - title: Lokalizacja
-          url: /lokalizacja
+          url: /
           new_window: false
         - title: Zasady
           url: /zasady

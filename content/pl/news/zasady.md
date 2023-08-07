@@ -4,36 +4,48 @@ slug: zasady
 slug_lng: rules
 image: /media/rules.jpg
 ---
-##### **ORGANIZER:** [ZKWP O/ LEGNICA](http://legnica.zkwp.pl/) ( POLISH KENNEL CLUB LEGNICA), [COOL-DOG.EU](http://cool-dog.eu/)  ROMAN MARUSZCZAK
+##### **ORGANIZATOR** [ZKWP O/ LEGNICA](http://legnica.zkwp.pl/) , [COOL-DOG.EU](http://cool-dog.eu/)  ROMAN MARUSZCZAK
 
-  
+<!--StartFragment-->
 
-Official competition by Polish Kennel Club (Związek Kynologiczny w Polsce / ZKwP) according to FCI rules. 
+**ZASADY:**
 
-According to Polish agility regulations, there will be 5 height categories:
+Zgodnie z polskim regulaminem agility, zawody będą przeprowadzone w 5 klasach wzrostowych:
 
-* XS – for dogs measuring less than 30 cm at the withers, height of jumps 20 cm,
-* S – for dogs measuring less than 35 cm at the withers, height of jumps 30 cm,
-* M – for dogs measuring 35 cm or more and less than 43 cm at the withers, height of jumps 40 cm,
-* ML – for dogs measuring 43 cm or more and less than 48 cm at the withers, height of jumps 50 cm,
-* L –  for dogs measuring 48 cm or more at the withers, height of jumps 60 cm
+* XS – dla psów mających mniej niż 30 cm w kłębie – wysokość tyczek 20 cm,
+* S – dla psów mających mniej niż 35 cm w kłębie, wysokość tyczek 30 cm,
+* M – dla psów mających 35 lub więcej cm w kłębie, lecz mniej niż 43 cm, wysokość tyczek 40 cm,
+* In – dla psów mających w kłębie 43 cm lub więcej, lecz mniej niż 48 cm, wysokość tyczek 50 cm.
+* L –  dla psów mających 48cm w kłębie lub więcej, wysokość przeszkód 60 cm.
 
-XS  category is optional (that is, if your dog is 29 cm you can choose to enter into XS or S category). You cannot change your category during the competition.
+Klasa XS jest opcjonalna (tzn. że pies mający 29 cm w kłębie może startować w kategorii XS lub S w zależności od decyzji przewodnika). Nie można zmienić klasy wzrostowej w trakcie zawodów.
 
-The dogs competing in XS category should have their height written in their working books in cm (the actual height of the dog, not the category). 
+Otwarte Mistrzostwa Polski Agility są otwarte dla zawodników zza granicy, jednak tytuł Mistrza Polski Agility (jak również I i II-vice Mistrza Polski Agility) zostaje przyznany najwyżej sklasyfikowanym polskim zawodnikom (tzn. mającym polską książeczkę startową).
 
-There will be possibility to measure your dog during the competition – if you would like your dog to be measured, please let us know before by e-mail [info@polishopen.dog](mailto:info@polishopen.dog)
+Podobnie tytuł Drużynowych Mistrzów Polski Agility przypada najwyżej sklasyfikowanym drużynom złożonym wyłącznie z polskich zawodników.
 
-There will be only open (A1,A2, A3 together) runs (agility and jumping)
+Drużyna składa się z 4 członków, liczą się trzy najlepsze wyniki (podobnie jak na MŚA).
 
-Friday : Agility + Jumping ( XS+S / M / ML / L)
+XS i S – razem
 
-Saturday : Agility + Jumping + Final ( best 100 dogs) ( XS+S / M / ML / L)
+M
 
-Sunday :  Team jumping + Team agility  ( XS+S / M / ML / L)
+In
 
-The competition is open to Polish Kennel Club members as well as members of other organizations belonging to or affiliated with FCI. 
+L
 
-The dogs taking part in the competition must be over 18 months old, have tattoo or chip and valid anti rabies vaccination. 
+Program zawodów:
 
-The handler (or their legal caretaker) is responsible for all damage done by the dog.
+Piątek – dwa biegi “na rozgrzewkę” (agility i jumping), nie liczące się do MPA, ale osobno nagradzane
+
+Sobota – biegi drużynowe agility i jumping w ramach MPA PLUS dodatkowy FINAŁ INDYWIDUALNY (można się do niego zaklasyfikować z piątkowych i sobotnich biegów – ranking indywidualny)
+
+Niedziela – agility i jumping indywidualne w ramach MPA. Tytuł Mistrza Polski Agility zdobywają zwycięzcy klasyfikacji łącznej z obydwu biegów.
+
+Zawody są otwarte dla członków ZKwP jak również innych organizacji kynologicznych zrzeszonych lub współpracujących z FCI. The competition is open to Psy biorące udział w zawodach muszą mieć ukończone 18 miesięcy, posiadać chip lub tatuaż oraz ważne szczepienie przeciwko wściekliźnie.
+
+Właściciel (lub prawny opiekun) odpowiada za wszelkie szkody wyrządzone przez psa.
+
+
+
+<!--EndFragment-->

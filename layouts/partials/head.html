@@ -5,8 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ $settings.description }}" />
+    {{ if $settings.social_image }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}{{ $settings.social_image }}" />
+    {{ end }}
 
-    <title>{{ $settings.title }}</title>
+    <title>{{ if .Title }}{{ .Title }} &#8211; {{ end }}{{ $settings.title }}</title>
 
     <!-- Generate CSS -->
     {{ $options := (dict "enableSourceMap" true ) }}
@@ -19,7 +22,6 @@
     {{ $mainJs := resources.Get "main.js" }}
 
     <link rel="icon" type="image/x-icon" href="{{ $settings.favicon }}">
-
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

@@ -1,4 +1,4 @@
-baseURL = 'https://agilitypoland.dog/'
+baseURL = 'https://agilitypoland.dog'
 languageCode = 'pl-pl'
 defaultContentLanguage = 'pl'
 
@@ -13,7 +13,6 @@ defaultContentLanguage = 'pl'
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Project Documentation'
     weight = 1
     [languages.en.permalinks]
       [languages.en.permalinks.page]
@@ -25,7 +24,6 @@ defaultContentLanguage = 'pl'
     languageCode = 'pl-PL'
     languageDirection = 'ltr'
     languageName = 'Polski'
-    title = 'Project Documentation'
     weight = 2
     [languages.pl.permalinks]
       [languages.pl.permalinks.page]

@@ -3,7 +3,7 @@ en:
   slogan: Slogan po angielsku
   image: /media/bgdog.jpg
   body: >-
-    #### 9-11.02.2024 Legnica / Poland
+    #### 10-12.11.2023 Legnica / Poland
 
 
     * Address of the venue: ul.Hangarowa, 59-220 Legnica
@@ -38,7 +38,7 @@ en:
     {{< rawhtml >}}<div class="google-spreadsheet" data-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSx9u_dDvlRZGxLwy5L0hBntB9mlNqecQqHAmI_Vu0eNcYUSsdfmA6iNNL1JZbcy-RqSvU2H5EqQk5c/pubhtml"></div>{{</rawhtml >}}
 pl:
   body: >-
-    #### 9-11.02.2024 Legnica / Polska
+    #### 10-12.11.2023 Legnica / Polska
 
 
     * Adres hali: ul.Hangarowa, 59-220 Legnica

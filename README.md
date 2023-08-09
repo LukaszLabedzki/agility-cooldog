@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LukaszLabedzki/agility-cooldog.git)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LukaszLabedzki/agility-cooldog)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ### Deploy to Netlify
 
-You can generate your own website based on this with [this link](https://app.netlify.com/start/deploy?repository=https://github.com/LukaszLabedzki/agility-cooldog.git). You will be guided through the following steps:
+You can generate your own website based on this with [this link](https://app.netlify.com/start/deploy?repository=https://github.com/LukaszLabedzki/agility-cooldog). You will be guided through the following steps:
 
 1. this repo will be duplicated on Github or Gitlab. An account is required and will be created on the way if needed.
 2. [Netlify](https://www.netlify.com/) will then use these files to build your website. Hosting, SSL certificate and domain are automatically set up. For free!

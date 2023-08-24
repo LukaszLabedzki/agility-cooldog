@@ -8,7 +8,7 @@ slug_lng: zapisy
 ---
 #### 10-12.11.2023 Legnica / Poland
 
-**Link to the entry form: ENTRIES  (from 01.09.2023)**
+**Link to the entry form: [ENTRIES](https://docs.google.com/forms/d/e/1FAIpQLSepKTgp87shQOLHyKQzWSStTNLIZgiiCGhqztJ_v4_B8U-nGg/viewform)  (from 01.09.2023)**
 
 **Entry fee:** 65 euros  per 3 days  or 45 euros Saturday+Sunday 
 

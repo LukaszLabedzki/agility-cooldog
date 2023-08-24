@@ -6,7 +6,7 @@ summary: Let's check the support of Markdown
 slug: entries
 slug_lng: zapisy
 ---
-#### 9-11.02.2024 Legnica / Poland
+#### 10-12.11.2023 Legnica / Poland
 
 **Link to the entry form: ENTRIES  (from 01.09.2023)**
 

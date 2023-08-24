@@ -6,7 +6,7 @@ image: /media/bgdog.jpg
 ---
 #### 10-12.11.2023 Legnica
 
- **Link do zapisów : Formularz** 
+ **Link do zapisów : [Formularz](https://docs.google.com/forms/d/e/1FAIpQLSepKTgp87shQOLHyKQzWSStTNLIZgiiCGhqztJ_v4_B8U-nGg/viewform)** 
 
 **Zapisy od 01.09.2023 godz 20.00 (do 14.09.2023 zostaną zaakceptowane zgłoszenia wszystkich polskich zawodników ze wyjątkiem zawodników zalegających z opłatami za poprzednie zawody.**
 

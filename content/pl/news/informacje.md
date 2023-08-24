@@ -7,6 +7,8 @@ image: /media/bgdog.jpg
 **ZAWODY**
 
 Rozpiska czasowa zostanie opublikowana na stronie w późniejszym terminie.
+
+
 Opublikowana rozpiska czasowa jest jedynie orientacyjna – jeśli dany bieg zakończy
 się wcześniej niż planowano, natychmiast rozpoczniemy budowę kolejnego toru, a
 zapoznania z torem i biegi rozpoczną się jak najszybciej – dlatego prosimy o
@@ -28,7 +30,6 @@ pracowników biura), którzy będą wprowadzali takie zmiany w razie potrzeby.
 Wyniki będą wyświetlane na monitorach obok ringów – prosimy śledzić wyniki,
 ponieważ rozdania nagród będą się odbywały bezpośrednio po zakończeniu danego
 biegu – zwycięzców prosimy o gotowość do stawienia się na podium.
-
 
 **WYMAGANE DOKUMENTY**
 

@@ -4,10 +4,9 @@ slug: zapisy
 slug_lng: entries
 image: /media/bgdog.jpg
 ---
-#### 9-11.02.2024 Legnica / Poland
+#### 10-12.11.2023 Legnica
 
  **Link do zapisów : Formularz** 
-
 
 **Zapisy od 01.09.2023 godz 20.00 (do 14.09.2023 zostaną zaakceptowane zgłoszenia wszystkich polskich zawodników ze wyjątkiem zawodników zalegających z opłatami za poprzednie zawody.**
 

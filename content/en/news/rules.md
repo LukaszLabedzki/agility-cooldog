@@ -14,7 +14,7 @@ image: /media/rules.jpg
 
 According to Polish agility regulations, there will be  5 height categories:
 
-* XS – for dogs measuring less than 30 cm at the withers, height of jumps 20 cm,
+* XS – optional for dogs measuring less than 30 cm at the withers, height of jumps 20 cm,
 * S – for dogs measuring less than 35 cm at the withers, height of jumps 30 cm,
 * M – for dogs measuring 35 cm or more and less than 43 cm at the withers, height of jumps 40 cm,
 * In – for dogs measuring 43 cm or more and less than 48 cm at the withers, height of jumps 50 cm,

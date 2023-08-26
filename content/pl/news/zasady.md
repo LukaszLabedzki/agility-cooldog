@@ -34,18 +34,18 @@ In
 
 L
 
-Program zawodów:
+**Program zawodów:**
 
-Piątek – dwa biegi “na rozgrzewkę” (agility i jumping), nie liczące się do MPA, ale osobno nagradzane
+**Piątek** – dwa biegi “na rozgrzewkę” (agility i jumping), nie liczące się do MPA, ale osobno nagradzane
 
-Sobota – biegi drużynowe agility i jumping w ramach MPA PLUS dodatkowy FINAŁ INDYWIDUALNY (można się do niego zaklasyfikować z piątkowych i sobotnich biegów – ranking indywidualny)
+**Sobota** – biegi drużynowe agility i jumping w ramach MPA PLUS dodatkowy FINAŁ INDYWIDUALNY (można się do niego zaklasyfikować z piątkowych i sobotnich biegów – ranking indywidualny)
 
-Niedziela – agility i jumping indywidualne w ramach MPA. Tytuł Mistrza Polski Agility zdobywają zwycięzcy klasyfikacji łącznej z obydwu biegów.
+**Niedziela** – agility i jumping indywidualne w ramach MPA. Tytuł Mistrza Polski Agility zdobywają zwycięzcy klasyfikacji łącznej z obydwu biegów.
 
-Zawody są otwarte dla członków ZKwP jak również innych organizacji kynologicznych zrzeszonych lub współpracujących z FCI. The competition is open to Psy biorące udział w zawodach muszą mieć ukończone 18 miesięcy, posiadać chip lub tatuaż oraz ważne szczepienie przeciwko wściekliźnie.
+Zawody są otwarte dla członków ZKwP jak również innych organizacji kynologicznych zrzeszonych lub współpracujących z FCI. 
+
+Psy biorące udział w zawodach muszą mieć ukończone **18 miesięcy**, posiadać chip lub tatuaż oraz ważne szczepienie przeciwko wściekliźnie.
 
 Właściciel (lub prawny opiekun) odpowiada za wszelkie szkody wyrządzone przez psa.
-
-
 
 <!--EndFragment-->

@@ -12,8 +12,8 @@ image: /media/rules.jpg
 
 Zgodnie z polskim regulaminem agility, zawody będą przeprowadzone w 5 klasach wzrostowych:
 
-* XS – dla psów mających mniej niż 30 cm w kłębie – wysokość tyczek 20 cm,
-* S – dla psów mających mniej niż 35 cm w kłębie, wysokość tyczek 30 cm,
+* XS – opcjonalnie  dla psów mających mniej niż 30 cm w kłębie – wysokość tyczek 20 cm,
+* S –  dla psów mających mniej niż 35 cm w kłębie, wysokość tyczek 30 cm,
 * M – dla psów mających 35 lub więcej cm w kłębie, lecz mniej niż 43 cm, wysokość tyczek 40 cm,
 * In – dla psów mających w kłębie 43 cm lub więcej, lecz mniej niż 48 cm, wysokość tyczek 50 cm.
 * L –  dla psów mających 48cm w kłębie lub więcej, wysokość przeszkód 60 cm.

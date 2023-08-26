@@ -107,6 +107,12 @@ pl:
   cats:
     - hello,yello,mello
   menu:
+    - title: Listy
+      url: /
+      submenu:
+        - title: Przyjęci
+        - title: Zapłacone
+        - title: Rezerwa
     - title: Lokalizacja
       url: /
     - title: Zapisy

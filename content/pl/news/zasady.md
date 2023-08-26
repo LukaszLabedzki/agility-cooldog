@@ -20,7 +20,7 @@ Zgodnie z polskim regulaminem agility, zawody będą przeprowadzone w 5 klasach 
 
 Klasa XS jest opcjonalna (tzn. że pies mający 29 cm w kłębie może startować w kategorii XS lub S w zależności od decyzji przewodnika). Nie można zmienić klasy wzrostowej w trakcie zawodów.
 
-Otwarte Mistrzostwa Polski Agility są otwarte dla zawodników zza granicy, jednak tytuł Mistrza Polski Agility (jak również I i II-vice Mistrza Polski Agility) zostaje przyznany najwyżej sklasyfikowanym polskim zawodnikom (tzn. mającym polską książeczkę startową).
+Otwarte Mistrzostwa Polski Agility są otwarte dla zawodników zza granicy, jednak tytuł **Mistrza Polski Agility** (jak również I i II-vice Mistrza Polski Agility) zostaje przyznany najwyżej sklasyfikowanym polskim zawodnikom (tzn. mającym polską książeczkę startową).
 
 Podobnie tytuł Drużynowych Mistrzów Polski Agility przypada najwyżej sklasyfikowanym drużynom złożonym wyłącznie z polskich zawodników.
 

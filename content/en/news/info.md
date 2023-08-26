@@ -16,7 +16,7 @@ If you’re driving from the West (through or from Germany):
 
 A4 from Dresden to Legnica – free, don’t worry, just drive ![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/tbd/3/16/1f60a.png)
 
-From Cottbus towards Legnica – we don’t recommend this way, since there are roadworks on A18, only one line available both directions.
+From Cottbus towards Legnica – we don’t recommend this way, since there are roadworks on A18.
 
 A2 – from Berlin towards Poznań – take a ticket on the motorway, pay on motorway exit in the toll charging point (both cash (PLN) and cards accepted)
 
@@ -24,13 +24,13 @@ If you’re driving from the East or South:
 
 A4 – Kraków – Katowice => take a ticket on the motorway, pay in the toll charging point (both cash (PLN) and cards accepted)
 
-A4 from Katowice to Wrocław – FREE
+A4 from Katowice to Wrocław – FREE from this year
 
 If you’re driving from North East:
 
 S8 from Białystok to Wrocław – free, A4 – from Wrocław to Legnica – free
 
-A2 from Stryków to Konin Wschód –FREE
+A2 from Stryków to Konin Wschód –FREE from this year
 
 A2 section from Konin towards Poznań – take the ticket on the motorway, pay at the toll charging point upon exit (cash (PLN) or card), Poznań – Legnica – for free.
 
@@ -55,8 +55,6 @@ The starting lists will be published a couple of days before the competition on 
 Bitches in heat run in the normal order – each ring has a rug for them to start from – please notify the steward if you need it. Please also be considerate and separate bitches in heat from other dogs whenever possible.
 
 The starting lists will be also displayed on monitors next to the rings.
-
-Ring 1 will be for XS, S and M for all three days, ring 2 for ML/L for all three days.
 
 There will be a steward for each ring. Please be next to the ring at least 4-5 teams before your run and report to the steward to confirm the running order. If you’re running with more than one dog and need to change your running order – please talk about it with the stewards ONLY (not the workers in the office) – they can change it as needed.
 

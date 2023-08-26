@@ -8,26 +8,31 @@ image: /media/bgdog.jpg
 
 Rozpiska czasowa zostanie opublikowana na stronie w późniejszym terminie.
 
-
-Opublikowana rozpiska czasowa jest jedynie orientacyjna – jeśli dany bieg zakończy
+Rozpiska czasowa jest jedynie orientacyjna – jeśli dany bieg zakończy
 się wcześniej niż planowano, natychmiast rozpoczniemy budowę kolejnego toru, a
 zapoznania z torem i biegi rozpoczną się jak najszybciej – dlatego prosimy o
 czujność, sprawdzanie tego, co się dzieje, tak żeby nie przegapić zapoznań lub
 swoich biegów.
+
+
 Listy startowe zostaną opublikowane na stronie kilka dni przed zawodami – prosimy
 o wcześniejszą informację, jeśli ktoś wie, że nie będzie mógł przyjechać.
+
+
 Suki w cieczce startują w normalnej kolejności, każdy z ringów jest wyposażony w
 dywanik do startu. Prosimy o poinformowanie stewarda, jeśli potrzebujecie z niego
 skorzystać. Prosimy o odpowiedzialne zachowanie i trzymanie suk w cieczce z dala
 od innych psów w miarę możliwości.
-Przez wszystkie trzy dni na ringu 1 będą się odbywały biegi dla kategorii XS, S i M,
-na ringu 2 dla kategorii In/ L.
+
+
 Przy każdym z ringów będzie się znajdował steward. Prosimy o zgłaszanie się do
 niego co najmniej na 4-5 psów przed swoimi biegiem w celu potwierdzenia kolejności
 startów. Osoby startujące z więcej niż jednym psem i potrzebujące zmiany w
 kolejności biegów prosimy o zwracanie się z tym wyłącznie do stewardów (nie
 pracowników biura), którzy będą wprowadzali takie zmiany w razie potrzeby.
-Wyniki będą wyświetlane na monitorach obok ringów – prosimy śledzić wyniki,
+
+
+Wyniki oraz listy startowe będą wyświetlane na monitorach obok ringów – prosimy śledzić wyniki,
 ponieważ rozdania nagród będą się odbywały bezpośrednio po zakończeniu danego
 biegu – zwycięzców prosimy o gotowość do stawienia się na podium.
 

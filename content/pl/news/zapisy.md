@@ -16,6 +16,10 @@ Lista zaakceptowanych zostanie opublikowana na stronie razem z numerami referenc
 
 **Limit:** 320 zawodników
 
-Startowe musi być zapłacone do 15.09.2023
+
+
+Termin zapłaty: 14 dni od momentu potwierdzenia przyjęcia zgłoszenia przez organizatorów. Po tym terminie zawodnik zostaje przesunięty na listę rezerwową i może zostać przyjęty po uiszczeniu startowego w ramach limitu zgłoszeń. Zawodnicy z Polski, którzy zgłoszą się w ciągu 2 tygodni od otwarcia zgłoszeń, mają gwarancję przyjęcia.
+
+
 
 Startowe jest bezzwrotne, zapłacone miejsce może zostać odsprzedane.

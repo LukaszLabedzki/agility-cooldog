@@ -112,8 +112,6 @@ pl:
       submenu:
         - title: Przyjęci
           url: https://agilitypoland.dog/przyjeci/
-        - title: Zapłacone
-        - title: Rezerwa
     - title: Lokalizacja
       url: /
     - title: Zapisy

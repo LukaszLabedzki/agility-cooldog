@@ -45,6 +45,13 @@ en:
   cats:
     - test,best,mest,dest
   menu:
+    - title: Lists
+      submenu:
+        - title: Accepted
+          url: https://agilitypoland.dog/en/accepted/
+      url: https://agilitypoland.dog/en/accepted/
+    - title: Entries
+      url: /en/entries
     - title: Venue
       url: /en
     - title: Tournament
@@ -58,8 +65,6 @@ en:
         - title: Judges
           url: /en/judges
       url: /
-    - title: Entries
-      url: /en/entries
 pl:
   footer_menu:
     - title: Social Media

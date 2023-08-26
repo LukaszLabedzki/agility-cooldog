@@ -26,20 +26,20 @@ Open Polish Agility Championship is open to competitors from abroad, however the
 
 Similarly, the title of Team Polish Agility Champions is granted to highest ranking team consisting of Polish competitors only.
 
-Teams consist of 4 members, 3 best results will count (same system as AWC).\
+**Teams** consist of 4 members, 3 best results will count (same system as AWC).\
 XS and S – together\
 M\
 In
 L
 
-Schedule:\
-Friday – two warm-up runs (agility and jumping), not counting for the Championship, but with their own prize giving ceremonies\
-Saturday – team agility and team jumping for Championship PLUS an additional INDIVIDUAL FINAL (you can qualify from Friday and Saturday runs – individual results of team runs).\
-Sunday – individual agility and jumping. The Polish Agility Champion title goes to the winner of combined agility and jumping.
+**Schedule:**\
+**Friday –** two warm-up runs (agility and jumping), not counting for the Championship, but with their own prize giving ceremonies\
+**Saturday –** team agility and team jumping for Championship PLUS an additional INDIVIDUAL FINAL (you can qualify from Friday and Saturday runs – individual results of team runs).\
+**Sunday** – individual agility and jumping. The Polish Agility Champion title goes to the winner of combined agility and jumping.
 
 The competition is open to Polish Kennel Club members as well as members of other organizations belonging to or affiliated with FCI. 
 
-The dogs taking part in the competition must be over 18 months old, have tattoo or chip and valid anti rabies vaccination. 
+The dogs taking part in the competition must be **over 18 months old**, have tattoo or chip and valid anti rabies vaccination. 
 
 The handler (or their legal caretaker) is responsible for all damage done by the dog.
 

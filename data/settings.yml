@@ -48,8 +48,8 @@ en:
     - title: Lists
       submenu:
         - title: Accepted
-          url: https://agilitypoland.dog/en/accepted/
-      url: https://agilitypoland.dog/en/accepted/
+          url: /accepted
+      url: /accepted
     - title: Entries
       url: /en/entries
     - title: Venue
@@ -113,10 +113,10 @@ pl:
     - hello,yello,mello
   menu:
     - title: Listy
-      url: /
+      url: /przyjeci
       submenu:
         - title: Przyjęci
-          url: https://agilitypoland.dog/przyjeci/
+          url: /przyjeci
     - title: Lokalizacja
       url: /
     - title: Zapisy

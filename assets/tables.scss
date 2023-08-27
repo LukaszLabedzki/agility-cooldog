@@ -1,14 +1,28 @@
 .ritz {
 	width: 100%;
+  overflow: scroll !important;
+  padding-bottom: 20px;
 
 	table {
 		width: 100%;
 
 		tbody {
+      > tr {
+        &:first-child {
+        	font-weight: bold;
+        }
+      }
+
 			tr {
 				th {
 					 width: 20px;
+           padding-right: 10px;
+           display: none;
 				}
+
+        td {
+          padding-right: 10px !important;
+        }
 			}
 		}
 	}

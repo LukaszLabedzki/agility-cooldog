@@ -14,7 +14,7 @@ Polish Kennel Club Branch Legnica 
 
 59-220 Legnica ul. Libana 10
 
-**ONLY EURO!** Bank account: xxxxxxxxxxxxxxx
+**ONLY EURO!** Bank account: PL91 1050 1908 1000 0090 3036 3957
 
 BIC: INGBPLPW
 

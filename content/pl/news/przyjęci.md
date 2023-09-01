@@ -1,7 +1,7 @@
 ---
 title: Przyjęci
 slug: przyjeci
-slug_lng: accepted
+slug_lng: en/accepted
 image: /media/bgdog.jpg
 ---
 ### **Wpłaty w PLN**

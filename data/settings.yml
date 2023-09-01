@@ -48,7 +48,7 @@ en:
     - title: Lists
       submenu:
         - title: Accepted
-          url: /accepted
+          url: /en/accepted
       url: /en/accepted
     - title: Entries
       url: /en/entries

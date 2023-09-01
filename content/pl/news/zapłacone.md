@@ -1,6 +1,6 @@
 ---
 title: Zapłacone
-slug: zap
+slug: zaplacone
 slug_lng: paid
 image: /media/bgdog.jpg
 ---

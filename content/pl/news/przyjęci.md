@@ -16,12 +16,10 @@ Związek Kynologiczny w Polsce Oddział Legnica
 
 59-220 Legnica ul. Libana 10
 
-**ONLY PLN!**   xxxxxxxxxxxxxxxx
+**ONLY PLN!**   PL65 1050 1908 1000 0090 3036 3940
 
 Kod BIC Swift: INGBPLPW
 
 Nazwa banku: ING Bank Slaski S.A.,ul. Sokolska 34, 40-086 Katowice, Poland
-
-
 
 {{< rawhtml >}}<div class="google-spreadsheet" data-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdNHPhw9naOMq81GFK9voZo7SkOoljJVjn769id3xAl6nfsS0l-G44rBWg2xLEEQG_INvk-5ZaUhY0/pubhtml?gid=0&single=true"></div>{{</rawhtml >}}

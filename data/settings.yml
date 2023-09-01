@@ -117,6 +117,7 @@ pl:
       submenu:
         - title: Przyjęci
           url: /przyjeci
+        - title: /Zapłacone
     - title: Lokalizacja
       url: /
     - title: Zapisy

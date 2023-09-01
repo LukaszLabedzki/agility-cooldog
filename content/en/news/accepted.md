@@ -1,7 +1,7 @@
 ---
 title: Accepted
 slug: accepted
-slug_lng: Przyjeci
+slug_lng: przyjeci
 image: /media/bgdog.jpg
 ---
 ### **Euro payments**

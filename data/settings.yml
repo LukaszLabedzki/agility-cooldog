@@ -49,7 +49,9 @@ en:
       submenu:
         - title: Accepted
           url: /en/accepted
-      url: /en/accepted
+        - title: Paid
+          url: /paid
+      url: /
     - title: Entries
       url: /en/entries
     - title: Venue

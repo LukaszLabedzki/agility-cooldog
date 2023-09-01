@@ -113,12 +113,12 @@ pl:
     - hello,yello,mello
   menu:
     - title: Listy
-      url: /przyjeci
+      url: /
       submenu:
         - title: Przyjęci
           url: /przyjeci
         - title: Zapłacone
-          url: /zapłacone
+          url: /zaplacone
     - title: Lokalizacja
       url: /
     - title: Zapisy

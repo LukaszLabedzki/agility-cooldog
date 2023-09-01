@@ -49,7 +49,7 @@ en:
       submenu:
         - title: Accepted
           url: /accepted
-      url: /accepted
+      url: /en/accepted
     - title: Entries
       url: /en/entries
     - title: Venue

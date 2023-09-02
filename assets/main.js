@@ -21,6 +21,9 @@ function captureStyle(html) {
 function init() {
   const spreadsheets = document.querySelectorAll('.google-spreadsheet');
 
+
+  console.log('init')
+
   for ( let spreadsheet of spreadsheets ) {
     const data = spreadsheet.getAttribute('data-src');
 
@@ -36,6 +39,22 @@ function init() {
         })
         .then(function (template) {
           spreadsheet.innerHTML = '<div class="ritz grid-container" dir="ltr">' + captureTable(template) + '</div>';
+
+          const wf = document.querySelector('.waffle');
+          const th = wf.querySelector('thead');
+          const ths = wf.querySelectorAll('th');
+
+          th.innerHTML = '';
+
+          const tr = wf.querySelector('tr')
+
+          //tr.querySelector('th').remove()
+
+          th.appendChild(tr)
+
+          console.log(wf.querySelector('tr'))
+          //console.log(document.querySelector('.waffle'))
+          new Tablesort(document.querySelector('.waffle'));
 
           var css = captureStyle(template),
               head = document.head || document.getElementsByTagName('head')[0],

@@ -34,6 +34,9 @@
     {{ $fontAwesomeStyle := $fontAwesomeSass | resources.ToCSS  $options | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $fontAwesomeStyle.RelPermalink }}" integrity="{{ $fontAwesomeStyle.Data.Integrity }}">
 
+    {{ $tsJs := resources.Get "tablesort.min.js" }}
+    <script src="{{$tsJs.RelPermalink}}"></script>
+
     {{ $mainJs := resources.Get "main.js" }}
     <script src="{{$mainJs.RelPermalink}}"></script>
 

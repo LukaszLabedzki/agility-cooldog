@@ -1,22 +1,24 @@
 .ritz {
 	width: 100%;
-  overflow: scroll !important;
+  overflow-x: scroll !important;
   padding-bottom: 20px;
 
 	table {
 		width: 100%;
 
 		thead {
-			display: none;
+			td {
+				font-weight: bold;
+				cursor: pointer;
+				position: relative;
+			}
+
+			th {
+				display: none;
+			}
 		}
 
 		tbody {
-      > tr {
-        &:first-child {
-        	font-weight: bold;
-        }
-      }
-
 			tr {
 				th {
 					 width: 20px;
@@ -30,4 +32,40 @@
 			}
 		}
 	}
+}
+
+th[role=columnheader]:not(.no-sort) {
+	cursor: pointer;
+}
+
+thead td:after {
+	content: '';
+	float: right;
+	border-width: 0 4px 4px;
+	border-style: solid;
+	border-color: #404040 transparent;
+	visibility: hidden;
+	opacity: 0;
+	-ms-user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+	position: absolute;
+	right: 14px;
+	top: 12px;
+}
+
+td[aria-sort=ascending]:not(.no-sort):after {
+	border-bottom: none;
+	border-width: 4px 4px 0;
+}
+
+td[aria-sort]:not(.no-sort):after {
+	visibility: visible;
+	opacity: 0.4;
+}
+
+td[role=columnheader]:not(.no-sort):hover:after {
+	visibility: visible;
+	opacity: 1;
 }

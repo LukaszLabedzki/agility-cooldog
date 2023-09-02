@@ -1,4 +1,3 @@
-
 [build]
   command = "hugo"
   functions = "netlify/functions"

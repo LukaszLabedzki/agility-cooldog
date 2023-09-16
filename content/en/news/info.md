@@ -14,7 +14,7 @@ From South – Prague through Hradec Kralove to Legnica – no tolls, just drive
 
 If you’re driving from the West (through or from Germany):
 
-A4 from Dresden to Legnica – free, don’t worry, just drive ![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/tbd/3/16/1f60a.png)
+A4 from Dresden to Legnica – free, don’t worry, just drive :)
 
 From Cottbus towards Legnica – we don’t recommend this way, since there are roadworks on A18.
 

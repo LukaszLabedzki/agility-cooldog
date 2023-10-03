@@ -47,8 +47,6 @@ en:
   menu:
     - title: Lists
       submenu:
-        - title: Accepted
-          url: /en/accepted
         - title: Paid
           url: /en/paid
       url: /
@@ -117,8 +115,6 @@ pl:
     - title: Listy
       url: /
       submenu:
-        - title: Przyjęci
-          url: /przyjeci
         - title: Zapłacone
           url: /zaplacone
     - title: Lokalizacja

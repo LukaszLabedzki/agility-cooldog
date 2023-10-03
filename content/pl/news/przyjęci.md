@@ -16,7 +16,7 @@ Związek Kynologiczny w Polsce Oddział Legnica
 
 59-220 Legnica ul. Libana 10
 
-**ONLY PLN!**   PL65 1050 1908 1000 0090 3036 3940
+
 
 Kod BIC Swift: INGBPLPW
 

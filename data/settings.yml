@@ -65,6 +65,8 @@ en:
         - title: Judges
           url: /en/judges
       url: /
+    - title: time table
+      url: https://agilitypoland.dog/en/time/
 pl:
   footer_menu:
     - title: Social Media
@@ -132,3 +134,5 @@ pl:
           url: /zapisy
         - title: Sędziowie
           url: /sedziowie
+    - title: rozpiska czasowa
+      url: https://agilitypoland.dog/czas/

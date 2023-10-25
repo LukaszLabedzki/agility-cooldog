@@ -26,13 +26,13 @@ Podobnie tytuł Drużynowych Mistrzów Polski Agility przypada najwyżej sklasyf
 
 Drużyna składa się z 4 członków, liczą się trzy najlepsze wyniki (podobnie jak na MŚA).
 
-XS i S – razem
+\- XS i S – razem
 
-M
+\- M
 
-In
+\- In
 
-L
+\- L
 
 **Program zawodów:**
 

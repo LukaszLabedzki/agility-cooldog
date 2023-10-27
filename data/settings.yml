@@ -67,6 +67,8 @@ en:
       url: /
     - title: time table
       url: https://agilitypoland.dog/en/time/
+    - title: teams
+      url: /en/team
 pl:
   footer_menu:
     - title: Social Media
@@ -136,3 +138,5 @@ pl:
           url: /zapisy
     - title: rozpiska czasowa
       url: https://agilitypoland.dog/czas/
+    - title: Drużyny
+      url: https://agilitypoland.dog/druzyny/

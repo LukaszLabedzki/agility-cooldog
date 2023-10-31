@@ -47,14 +47,10 @@ function init() {
           th.innerHTML = '';
 
           const tr = wf.querySelector('tr')
-
-          //tr.querySelector('th').remove()
-
           th.appendChild(tr)
 
-          console.log(wf.querySelector('tr'))
-          //console.log(document.querySelector('.waffle'))
-          new Tablesort(document.querySelector('.waffle'));
+          console.log(wf.parentNode.parentNode)
+          new Tablesort(wf);
 
           var css = captureStyle(template),
               head = document.head || document.getElementsByTagName('head')[0],

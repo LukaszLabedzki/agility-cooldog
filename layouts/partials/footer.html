@@ -46,7 +46,9 @@
                 {{ if not (eq .Title "Sponsors") }}
                 {{ if .Params.logo }}
                 <li class="glide__slide" style="width: 210px; height: 210px; display: flex; justify-content: center; align-items: center;">
-                  <img src="{{ .Params.logo }}" alt="" style="max-height: 210px; max-width: 210px;" title="{{ .Title }}">
+                  <a href="{{ .Permalink }}" target="_blank">
+                    <img src="{{ .Params.logo }}" alt="" style="max-height: 210px; max-width: 210px;" title="{{ .Title }}">
+                  </a>
                 </li>
                 {{ end }}
                 {{ end }}

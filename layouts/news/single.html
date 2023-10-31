@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="{{ $productStyle.RelPermalink }}" integrity="{{ $productStyle.Data.Integrity }}" />
 
 
-<body>
+<body class="page-{{ .Slug }}">
     {{ partial "header.html" .}}
 
     {{ if .Params.image }}

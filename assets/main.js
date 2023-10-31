@@ -21,10 +21,16 @@ function captureStyle(html) {
 function init() {
   const spreadsheets = document.querySelectorAll('.google-spreadsheet');
 
-
-  console.log('init')
+  console.log(document.documentElement.getAttribute('lang'))
 
   for ( let spreadsheet of spreadsheets ) {
+    let loadingText = 'Loading...'
+    if(document.documentElement.getAttribute('lang') === 'pl-PL') {
+      loadingText = 'Ładowanie...'
+    }
+
+    spreadsheet.innerHTML = '<div style="height: 500px;"><h4>' + loadingText + '</h4></div>'
+
     const data = spreadsheet.getAttribute('data-src');
 
     if(data) {
@@ -49,8 +55,9 @@ function init() {
           const tr = wf.querySelector('tr')
           th.appendChild(tr)
 
-          console.log(wf.parentNode.parentNode)
-          new Tablesort(wf);
+          if(!document.body.classList.contains('page-czas') && !document.body.classList.contains('page-time')) {
+            new Tablesort(wf);
+          }
 
           var css = captureStyle(template),
               head = document.head || document.getElementsByTagName('head')[0],

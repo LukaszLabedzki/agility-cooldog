@@ -34,8 +34,35 @@
           </a>
         </div>
       </div>
-    </div>
 
+      <div class="sponsors-slider" style="border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 40px; margin-top: 50px;">
+        <h4>Sponsors</h4>
+
+        <div style="padding: 0 50px">
+          <div class="glide">
+            <div class="glide__track" data-glide-el="track">
+              <ul class="glide__slides">
+              {{ range where site.AllPages "Type" "sponsors" }}
+                {{ if not (eq .Title "Sponsors") }}
+                {{ if .Params.logo }}
+                <li class="glide__slide" style="width: 210px; height: 210px; display: flex; justify-content: center; align-items: center;">
+                  <img src="{{ .Params.logo }}" alt="" style="max-height: 210px; max-width: 210px;" title="{{ .Title }}">
+                </li>
+                {{ end }}
+                {{ end }}
+              {{ end }}
+              </ul>
+            </div>
+
+            <div class="glide__arrows" data-glide-el="controls">
+              <button class="glide__arrow glide__arrow--left" data-glide-dir="<" style="margin-left: -70px"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
+              <button class="glide__arrow glide__arrow--right" data-glide-dir=">" style="margin-right: -70px"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
 
     <div class="footer-bottom">
       <div class="container">
@@ -46,6 +73,25 @@
 
 
 <script>
+  var glide = new Glide('.glide', {
+    type: 'carousel',
+    perView: 3,
+    peek: 0,
+    focusAt: 'center',
+    hoverpause: false,
+    autoplay: 3000,
+    breakpoints: {
+      600: {
+        perView: 1
+      }, 
+      1000: {
+        perView: 2
+      }
+    }
+  })
+
+  glide.mount()
+
   // Fixes Netlify Identity email confirmation
   // Ref https://answers.netlify.com/t/common-issue-netlify-cms-git-gateway-email-not-confirmed/10690/26
   if (window.location.hash.includes('_token=')) {

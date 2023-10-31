@@ -12,8 +12,10 @@
 {{ $productStyle := resources.Get "markdown.scss" | resources.ToCSS $options | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $productStyle.RelPermalink }}" integrity="{{ $productStyle.Data.Integrity }}" />
 
+<link rel='stylesheet' id='slick-css' href='https://wp.polishopen.dog/wp-content/themes/alchemists/assets/vendor/slick/slick.css?ver=1.9.0' media='all' />
 
-<body class="page-{{ .Slug }}">
+
+<body>
     {{ partial "header.html" .}}
 
 {{ if .Params.image }}
@@ -21,7 +23,7 @@
 {{ end }}
 
 <div class="container">
-    <div class="page-content">
+    <div class="page-content page-{{ .Slug }}">
         <div class="card">
             <div class="card__header">
                 <h4>{{.Title}}</h4>

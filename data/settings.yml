@@ -48,6 +48,7 @@ en:
     - title: Ring 1
       submenu: []
       url: https://www.smarteragility.com/live/284
+      newwindow: true
     - title: Ring 2
       url: https://www.smarteragility.com/live/285
     - title: Venue

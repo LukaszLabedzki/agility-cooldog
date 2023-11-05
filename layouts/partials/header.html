@@ -60,11 +60,11 @@
                 <nav class="main-nav">
                     {{ range $settings.menu }}
                     <div {{ if .submenu }}class="sub"{{ end }}>
-                        <a href="{{ .url }}">{{ .title }}</a>
+                        <a href="{{ .url }}" {{ if .newwindow }}target="_blank"{{end}}>{{ .title }}</a>
                         {{ if .submenu }}
                         <nav>
                             {{ range .submenu }}
-                            <a href="{{ .url }}">{{ .title }}</a>
+                            <a href="{{ .url }}" {{ if .newwindow }}target="_blank"{{end}}>{{ .title }}</a>
                             {{ end }}
                         </nav>
                         {{ end }}

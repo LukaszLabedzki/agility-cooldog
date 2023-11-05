@@ -51,6 +51,7 @@ en:
       newwindow: true
     - title: Ring 2
       url: https://www.smarteragility.com/live/285
+      newwindow: true
     - title: Venue
       url: /en
     - title: Tournament
@@ -120,8 +121,10 @@ pl:
     - title: Ring 1
       url: https://www.smarteragility.com/live/284
       submenu: []
+      newwindow: true
     - title: Ring 2
       url: https://www.smarteragility.com/live/285
+      newwindow: true
     - title: Lokalizacja
       url: /
     - title: Zawody

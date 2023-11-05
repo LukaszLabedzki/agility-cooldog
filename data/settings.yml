@@ -45,11 +45,11 @@ en:
   cats:
     - test,best,mest,dest
   menu:
-    - title: Lists
-      submenu:
-        - title: Paid
-          url: /en/paid
-      url: /
+    - title: Ring 1
+      submenu: []
+      url: https://www.smarteragility.com/live/284
+    - title: Ring 2
+      url: https://www.smarteragility.com/live/285
     - title: Venue
       url: /en
     - title: Tournament
@@ -116,11 +116,11 @@ pl:
   cats:
     - hello,yello,mello
   menu:
-    - title: Listy
-      url: /
-      submenu:
-        - title: Zapłacone
-          url: /zaplacone
+    - title: Ring 1
+      url: https://www.smarteragility.com/live/284
+      submenu: []
+    - title: Ring 2
+      url: https://www.smarteragility.com/live/285
     - title: Lokalizacja
       url: /
     - title: Zawody

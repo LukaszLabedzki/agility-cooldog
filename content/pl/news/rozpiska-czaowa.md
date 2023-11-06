@@ -1,5 +1,5 @@
 ---
-title: Rozpiska czaowa
+title: Rozpiska czasowa
 slug: czas
 slug_lng: time
 image: /media/bgdog.jpg

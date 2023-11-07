@@ -3,6 +3,7 @@ title: Oki-Doggy
 slug: Oki-Doggy
 logo: /media/logos-bez-tla-na-farbie.png
 facebook: https://www.facebook.com/OkiDoggyManufakturaPsichRzeczy
+instagram: https://www.instagram.com/manufaktura.okidoggy
 website_url: " manufaktura.okidoggy@gmail.com"
 ---
 

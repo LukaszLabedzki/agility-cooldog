@@ -4,6 +4,7 @@ slug: druzyny
 slug_lng: team
 image: /media/bgdog.jpg
 ---
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -793,3 +794,4 @@ image: /media/bgdog.jpg
 
  </body>
 </html>
+```

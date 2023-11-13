@@ -1,6 +1,6 @@
 ---
 title: Test
-slug: testtest
+slug: pdf
 slug_lng: testtesten
 ---
 hello

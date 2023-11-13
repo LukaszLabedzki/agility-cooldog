@@ -6,6 +6,9 @@ defaultContentLanguage = 'pl'
   title = 'Mistrzostwa Polski Agility 2023'
   metaDescription = "Mistrzostwa Polski Agility 2023"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [languages]
   [languages.en]
     contentDir = 'content/en'

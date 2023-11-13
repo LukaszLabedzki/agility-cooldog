@@ -4,6 +4,4 @@ slug: druzyny
 slug_lng: team
 image: /media/bgdog.jpg
 ---
-
-
-<embed src="/media/ts.pdf&navpanes=0&scrollbar=0" width="100%" height="2100px" />
+<embed src="/media/ts.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="2100px" />

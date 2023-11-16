@@ -3,7 +3,7 @@ title: Drużyny
 slug: Druzyny
 slug_lng: teams
 image: /media/bgdog.jpg
-html_body: >+
+html_body: >
   <body id="body" class="scheme-info hide-sidebar report-body page-small">
      
   <!-- Header -->
@@ -2925,5 +2925,56 @@ html_body: >+
   	if (typeof messages !== 'undefined') {
   	}
   </script>
+
+
+  <head> 
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   
+      <meta name="robots" content="all, index, follow">
+     
+      <!-- Page title -->
+      <title>Resultprocessing - 
+          10-12.11.2023 
+          Polish Open</title>
+      <meta name="keywords" content="agility, course designer, trials, journal, competitions, calendar, online registration, results">
+      <meta name="description" content="Smarter Agility: Course Designer, Journal, Agility Trials, Calendar, Online Registration and Results">
+
+           
+      <!-- Place favicon.ico and apple-touch-icon.png in the root directory 
+      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="/favicon.ico" type="image/x-icon">
+      -->
+      <link rel="icon" type="image/png" sizes="180x180" href="/favicon.png">
+
+   
+      <!-- Vendor styles -->
+      <!-- Vendor styles dropped
+      -->
+      <link rel="stylesheet" href="/assets/vendor/MaterialDesign-Webfont-master/css/materialdesignicons.min.css" media="all" type="text/css">
+      <link rel="stylesheet" href="/assets/vendor/fontawesome/css/font-awesome.css">
+      <link rel="stylesheet" href="/assets/vendor/bootstrap/dist/css/bootstrap.css">
+
+      <link rel="stylesheet" href="/assets/vendor/animate.css/animate.css">
+      <link rel="stylesheet" href="/assets/vendor/sweetalert/lib/sweet-alert.css">
+      <link rel="stylesheet" href="/assets/vendor/toastr/build/toastr.min.css">
+   
+      <!-- App styles -->
+      <!-- App styles dropped
+      -->
+      <link rel="stylesheet" href="/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+      <link rel="stylesheet" href="/assets/fonts/pe-icon-7-stroke/css/helper.css">
+      <link rel="stylesheet" href="/assets/styles/static_custom.css">
+      <link rel="stylesheet" href="/assets/styles/style.css">
+      <link rel="stylesheet" href="/assets/styles/sa-style.04.css">
+       
+      <!-- page specific styles -->
+          
+     <!-- inline styles related to this page -->
+      <style type="text/css">
+                      </style>
+
+  </head>
 ---
 Wyniki drużynowe

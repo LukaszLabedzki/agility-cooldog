@@ -74,7 +74,7 @@ en:
       url: /druzyny
       newwindow: false
     - title: Combined
-      url: /en/combined
+      url: /laczne
 pl:
   footer_menu:
     - title: Social Media
@@ -151,4 +151,4 @@ pl:
       url: /druzyny
       newwindow: false
     - title: łączne
-      url: laczne
+      url: /laczne

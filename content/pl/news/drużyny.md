@@ -3,7 +3,7 @@ title: Drużyny
 slug: Druzyny
 slug_lng: teams
 image: /media/bgdog.jpg
-html_body: >
+html_body: >-
   <body id="body" class="scheme-info hide-sidebar report-body page-small">
      
   <!-- Header -->
@@ -2976,5 +2976,483 @@ html_body: >
                       </style>
 
   </head>
+
+
+  <body id="body" class="scheme-info hide-sidebar report-body page-small">
+     
+  <!-- Header -->
+
+
+  <!-- Main Wrapper -->
+
+  <div id="wrapper" style="background-color:white; border:none;">
+  	
+  <div class="content info container-fluid">
+
+          
+          
+                  <div class="row">
+              <div class="col-xs-2 text-left">
+                  <img src="/assets/logos/3a781bf2710e5fb24c3fcdc843f8409c?_=1700149684" class="img-responsive -noScreen report-image" style="">
+              </div>
+
+              <div class="col-xs-8 text-center">
+                  <h3 class="report-header">
+                      10-12.11.2023 | MP 2023 Ring 1 XS S M
+                  </h3>
+                  <h3 class="report-subheader">
+                      Polish Open
+                  </h3>
+              </div>
+
+              <div class="col-xs-2 text-right">
+                  <img src="/assets/images/landing/report-logo.png" class="img-responsive -noScreen report-image" style="">
+              </div>
+          </div>
+          
+          <div class="row m-b-md m-t--sm">
+              <div class="col-xs-12">
+                  <h3 class="report-title">
+                      <span style="font-weight:normal;">
+                      Results
+                      - 
+                      </span>
+                      <span style="text-transform: capitalize;">
+                          Team XS S
+                      </span>
+                  </h3>
+              </div>
+          </div>
+
+          <div class="row">
+              <div class="col-sm-12">
+                  <table class="table table-condensed" id="index-table">
+                      <thead>
+                          <tr>
+                              <th rowspan="2" style="vertical-align: text-top;text-align: center;">Ranking</th>
+                              <th rowspan="2" style="vertical-align: text-top;">Team</th>
+                              <th rowspan="2" style="vertical-align: text-top;text-align: center;"># Elim.</th>
+                              <th rowspan="2" style="vertical-align: text-top;text-align: center;">Faults</th>
+                              <th rowspan="2" style="vertical-align: text-top;text-align: center;">Time</th>
+                              <th colspan="5" style="vertical-align: text-top;text-align: center;">Details per round</th>
+                          </tr>
+                          <tr>
+                              <th style="vertical-align: text-top;">Round</th>
+                              <th style="vertical-align: text-top;text-align: center;">Ranking</th>
+                              <th style="vertical-align: text-top;text-align: center;"># Elim.</th>
+                              <th style="vertical-align: text-top;text-align: center;">Faults</th>
+                              <th style="vertical-align: text-top;text-align: center;">Time</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                                                                                  <tr>
+                                  <td rowspan="3" style="text-align: center;">1</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Small Spa w pudle
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">0</td>
+                                  <td rowspan="3" style="text-align: center;">6.01</td>
+                                  <td rowspan="3" style="text-align: center;">220.13</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">1</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">0.00</td>
+                                      <td style="text-align: center;border-bottom: none;">95.02</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">1</td>
+                                      <td style="text-align: center;border: none;">0</td>
+                                      <td style="text-align: center;border: none;">6.01</td>
+                                      <td style="text-align: center;border: none;">125.11</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">2</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Happy Paws
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">0</td>
+                                  <td rowspan="3" style="text-align: center;">28.75</td>
+                                  <td rowspan="3" style="text-align: center;">258.18</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">2</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">7.36</td>
+                                      <td style="text-align: center;border-bottom: none;">113.92</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">4</td>
+                                      <td style="text-align: center;border: none;">0</td>
+                                      <td style="text-align: center;border: none;">21.39</td>
+                                      <td style="text-align: center;border: none;">144.26</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">3</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Ich Troje, Ona Jedna
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">0</td>
+                                  <td rowspan="3" style="text-align: center;">38.32</td>
+                                  <td rowspan="3" style="text-align: center;">275.65</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">4</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">13.97</td>
+                                      <td style="text-align: center;border-bottom: none;">121.97</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">5</td>
+                                      <td style="text-align: center;border: none;">0</td>
+                                      <td style="text-align: center;border: none;">24.35</td>
+                                      <td style="text-align: center;border: none;">153.68</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">4</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Black noses
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">1</td>
+                                  <td rowspan="3" style="text-align: center;">15.00</td>
+                                  <td rowspan="3" style="text-align: center;">212.03</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Agility team</td>
+                                      <td style="text-align: center;border-bottom: none;">2</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">15.00</td>
+                                      <td style="text-align: center;border-bottom: none;">125.26</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Jumping team</td>
+                                      <td style="text-align: center;border: none;">7</td>
+                                      <td style="text-align: center;border: none;">1</td>
+                                      <td style="text-align: center;border: none;">0.00</td>
+                                      <td style="text-align: center;border: none;">86.77</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">5</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Legion of boom
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">1</td>
+                                  <td rowspan="3" style="text-align: center;">24.39</td>
+                                  <td rowspan="3" style="text-align: center;">238.00</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Agility team</td>
+                                      <td style="text-align: center;border-bottom: none;">3</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">18.00</td>
+                                      <td style="text-align: center;border-bottom: none;">143.00</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Jumping team</td>
+                                      <td style="text-align: center;border: none;">11</td>
+                                      <td style="text-align: center;border: none;">1</td>
+                                      <td style="text-align: center;border: none;">6.39</td>
+                                      <td style="text-align: center;border: none;">95.00</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">6</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Mali, szybcy i zwinni
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">1</td>
+                                  <td rowspan="3" style="text-align: center;">93.53</td>
+                                  <td rowspan="3" style="text-align: center;">305.72</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Agility team</td>
+                                      <td style="text-align: center;border-bottom: none;">6</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">57.84</td>
+                                      <td style="text-align: center;border-bottom: none;">172.84</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Jumping team</td>
+                                      <td style="text-align: center;border: none;">12</td>
+                                      <td style="text-align: center;border: none;">1</td>
+                                      <td style="text-align: center;border: none;">35.69</td>
+                                      <td style="text-align: center;border: none;">132.88</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">7</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Czech Mix
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">2</td>
+                                  <td rowspan="3" style="text-align: center;">12.04</td>
+                                  <td rowspan="3" style="text-align: center;">243.30</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">3</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">12.04</td>
+                                      <td style="text-align: center;border-bottom: none;">104.06</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">7</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">0.00</td>
+                                      <td style="text-align: center;border: none;">139.24</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">8</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Justice for XS
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">2</td>
+                                  <td rowspan="3" style="text-align: center;">46.57</td>
+                                  <td rowspan="3" style="text-align: center;">316.23</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">6</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">35.96</td>
+                                      <td style="text-align: center;border-bottom: none;">133.96</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">11</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">10.61</td>
+                                      <td style="text-align: center;border: none;">182.27</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">9</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Skazani na sukces
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">2</td>
+                                  <td rowspan="3" style="text-align: center;">56.79</td>
+                                  <td rowspan="3" style="text-align: center;">315.89</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">5</td>
+                                      <td style="text-align: center;border-bottom: none;">0</td>
+                                      <td style="text-align: center;border-bottom: none;">27.89</td>
+                                      <td style="text-align: center;border-bottom: none;">135.89</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">13</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">28.90</td>
+                                      <td style="text-align: center;border: none;">180.00</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">10</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Small international
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">3</td>
+                                  <td rowspan="3" style="text-align: center;">5.00</td>
+                                  <td rowspan="3" style="text-align: center;">277.54</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">8</td>
+                                      <td style="text-align: center;border-bottom: none;">1</td>
+                                      <td style="text-align: center;border-bottom: none;">0.00</td>
+                                      <td style="text-align: center;border-bottom: none;">124.03</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">9</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">5.00</td>
+                                      <td style="text-align: center;border: none;">153.51</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">11</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Small madness
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">3</td>
+                                  <td rowspan="3" style="text-align: center;">8.16</td>
+                                  <td rowspan="3" style="text-align: center;">258.55</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">9</td>
+                                      <td style="text-align: center;border-bottom: none;">1</td>
+                                      <td style="text-align: center;border-bottom: none;">2.19</td>
+                                      <td style="text-align: center;border-bottom: none;">96.53</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">10</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">5.97</td>
+                                      <td style="text-align: center;border: none;">162.02</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">12</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Jazzgot
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">3</td>
+                                  <td rowspan="3" style="text-align: center;">10.00</td>
+                                  <td rowspan="3" style="text-align: center;">251.82</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">10</td>
+                                      <td style="text-align: center;border-bottom: none;">1</td>
+                                      <td style="text-align: center;border-bottom: none;">5.00</td>
+                                      <td style="text-align: center;border-bottom: none;">107.19</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">8</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">5.00</td>
+                                      <td style="text-align: center;border: none;">144.63</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">13</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Chicquitas
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">4</td>
+                                  <td rowspan="3" style="text-align: center;">17.14</td>
+                                  <td rowspan="3" style="text-align: center;">275.68</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">13</td>
+                                      <td style="text-align: center;border-bottom: none;">2</td>
+                                      <td style="text-align: center;border-bottom: none;">0.00</td>
+                                      <td style="text-align: center;border-bottom: none;">113.28</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;">12</td>
+                                      <td style="text-align: center;border: none;">2</td>
+                                      <td style="text-align: center;border: none;">17.14</td>
+                                      <td style="text-align: center;border: none;">162.40</td>
+                                  </tr>
+                                                                                                              <tr>
+                                  <td rowspan="3" style="text-align: center;">14</td>
+                                  <td rowspan="3" style="">
+                                                                                                    
+                                      Waleczne dziki
+                                  </td>
+                                  <td rowspan="3" style="text-align: center;">5</td>
+                                  <td rowspan="3" style="text-align: center;">3.07</td>
+                                  <td rowspan="3" style="text-align: center;">341.58</td>
+                              </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border-bottom: none;">Jumping team</td>
+                                      <td style="text-align: center;border-bottom: none;">14</td>
+                                      <td style="text-align: center;border-bottom: none;">2</td>
+                                      <td style="text-align: center;border-bottom: none;">3.07</td>
+                                      <td style="text-align: center;border-bottom: none;">140.74</td>
+                                  </tr>
+                                                                                            
+                                  <tr class="no-border">
+                                      <td style="border: none;">Agility team</td>
+                                      <td style="text-align: center;border: none;"></td>
+                                      <td style="text-align: center;border: none;">3</td>
+                                      <td style="text-align: center;border: none;">0.00</td>
+                                      <td style="text-align: center;border: none;">200.84</td>
+                                  </tr>
+                                                                                  
+                      </tbody>                        
+                  </table>
+              </div>
+          </div>
+  </div>
+
+  </div>
+
+
+  <script src="/assets/vendor/jquery/dist/jquery.min.js"></script>
+
+  <script src="/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+  <script src="/assets/vendor/slimScroll/jquery.slimscroll.min.js"></script>
+
+  <script src="/assets/vendor/jquery-ui/jquery-ui.min.js"></script>
+
+  <script src="/assets/vendor/metisMenu/dist/metisMenu.min.js"></script>
+
+  <script src="/assets/vendor/iCheck/icheck.min.js"></script>
+
+  <script src="/assets/vendor/sweetalert/lib/sweet-alert.min.js"></script>
+
+  <script src="/assets/vendor/toastr/build/toastr.min.js"></script>
+
+
+  <!-- App scripts -->
+
+  <script src="/assets/scripts/homer.0.3.14.js"></script>
+
+  <script src="/assets/scripts/homer.en.js"></script>
+
+
+
+  <script>
+  	if (typeof deleteRecord !== 'undefined') {
+  		//deleteRecord.animate = true;
+  	}
+  	if (typeof messages !== 'undefined') {
+  	}
+  </script>
+
+   
+  <div><div class="sweet-overlay" tabindex="-1"></div><div class="sweet-alert" tabindex="-1"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p>Text</p><button class="cancel" tabindex="2">Cancel</button><button class="confirm" tabindex="1">OK</button></div></div></body>
 ---
 Wyniki drużynowe

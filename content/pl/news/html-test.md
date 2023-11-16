@@ -3,8 +3,7 @@ title: HTML TEST
 slug: htmltest
 slug_lng: en/htmltest
 html_body: >-
-  <div class="ritz grid-container" dir="ltr"><table class="waffle"
-  cellspacing="0" cellpadding="0">
+  <table>
                       <thead>
                           <tr>
                               <th rowspan="2" style="vertical-align: text-top;text-align: center;">Ranking</th>
@@ -365,6 +364,6 @@ html_body: >-
                                   </tr>
                                                                                   
                       </tbody>                        
-                  </table></div>
+                  </table>
 ---
 c

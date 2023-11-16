@@ -90,6 +90,7 @@ collections:
         { label: "Slug (pl)", name: "slug_lng", widget: "string" },
         { label: "Background Image", name: "image", widget: "image", required: false },
         { label: ".", name: "body", widget: "markdown" },
+        { label: "HTML Body", name: "html_body", widget: "markdown" }
       ]
   - name: "news-pl"
     label: "Pages (pl)"
@@ -105,6 +106,7 @@ collections:
         { label: "Slug (en)", name: "slug_lng", widget: "string" },
         { label: "Background Image", name: "image", widget: "image", required: false },
         { label: "Body", name: "body", widget: "markdown" },
+        { label: "HTML Body", name: "html_body", widget: "markdown" }
       ]
   - name: "sponsors"
     label: "Sponsors"

@@ -67,10 +67,12 @@ en:
         - title: Entries
           url: /en/entries
       url: /
-    - title: time table
-      url: https://agilitypoland.dog/en/time/
+    - title: Gallery
+      url: https://photos.app.goo.gl/2eCEqbRDuLyREw8s5
+      newwindow: true
     - title: teams
-      url: /en/team
+      url: https://drive.google.com/drive/folders/1of7ch_gpGuNLh655K_dEWm9UWoHZuVFl?usp=drive_link
+      newwindow: true
 pl:
   footer_menu:
     - title: Social Media
@@ -140,7 +142,9 @@ pl:
           url: /sedziowie
         - title: Zapisy
           url: /zapisy
-    - title: rozpiska czasowa
-      url: https://agilitypoland.dog/czas/
+    - title: Galeria
+      url: https://photos.app.goo.gl/2eCEqbRDuLyREw8s5
+      newwindow: true
     - title: Drużyny
-      url: https://agilitypoland.dog/druzyny/
+      url: https://drive.google.com/drive/folders/1of7ch_gpGuNLh655K_dEWm9UWoHZuVFl?usp=drive_link
+      newwindow: true

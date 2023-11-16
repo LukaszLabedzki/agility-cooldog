@@ -26,8 +26,8 @@
                 <div class="card__header">
                     <h4>{{.Title}}</h4>
                 </div>
-                {{ if not .Params.html_content }}<div class="card__content">{{ .Content | safeHTML}}</div>{{ end }}
-                {{ if .Params.html_content }}<div class="card__content">{{ .Params.html_content | safeHTML}}</div>{{ end }}
+                {{ if not .Params.html_body }}<div class="card__content">{{ .Content | safeHTML}}</div>{{ end }}
+                {{ if .Params.html_body }}<div class="card__content">{{ .Params.html_body | safeHTML}}</div>{{ end }}
             </div>
         </div>
     </div>

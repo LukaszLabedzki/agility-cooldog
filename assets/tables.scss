@@ -10,6 +10,14 @@
 			padding: 0 10px;
 		}
 	}
+
+	.text-left, .text-right {
+		display: none;
+	}
+
+	.container-fluid > .row {
+		justify-content: center;
+	}
 }
 
 .ritz {

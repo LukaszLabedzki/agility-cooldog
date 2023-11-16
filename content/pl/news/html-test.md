@@ -3,7 +3,7 @@ title: HTML TEST
 slug: htmltest
 slug_lng: en/htmltest
 html_body: >-
-  <table>
+  <table class="table table-condensed" id="index-table">
                       <thead>
                           <tr>
                               <th rowspan="2" style="vertical-align: text-top;text-align: center;">Ranking</th>
@@ -77,8 +77,7 @@ html_body: >-
                                                                                                               <tr>
                                   <td rowspan="3" style="text-align: center;">3</td>
                                   <td rowspan="3" style="">
-                                                                              <img src="/assets/images/flags/3+1.svg" 
-                                          style="width: 17px;position: relative;top: -2px;"/>
+                                                                              <img src="/assets/images/flags/3+1.svg" style="width: 17px;position: relative;top: -2px;">
                                                                                                     
                                       3+1
                                   </td>
@@ -158,7 +157,7 @@ html_body: >-
                                   <td rowspan="3" style="text-align: center;">6</td>
                                   <td rowspan="3" style="">
                                                                                                     
-                                      Run like nobody&rsquo;s watching
+                                      Run like nobody’s watching
                                   </td>
                                   <td rowspan="3" style="text-align: center;">1</td>
                                   <td rowspan="3" style="text-align: center;">27.28</td>
@@ -262,7 +261,7 @@ html_body: >-
                                   <td rowspan="3" style="text-align: center;">10</td>
                                   <td rowspan="3" style="">
                                                                                                     
-                                      It&#039;s complicated
+                                      It's complicated
                                   </td>
                                   <td rowspan="3" style="text-align: center;">3</td>
                                   <td rowspan="3" style="text-align: center;">5.00</td>
@@ -366,4 +365,4 @@ html_body: >-
                       </tbody>                        
                   </table>
 ---
-c
+.

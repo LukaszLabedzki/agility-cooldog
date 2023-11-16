@@ -106,7 +106,7 @@ collections:
         { label: "Slug (en)", name: "slug_lng", widget: "string" },
         { label: "Background Image", name: "image", widget: "image", required: false },
         { label: "Body", name: "body", widget: "markdown" },
-        { label: "HTML Body", name: "html_body", widget: "markdown" }
+        { label: "HTML Body", name: "html_body", widget: "text" }
       ]
   - name: "sponsors"
     label: "Sponsors"
@@ -126,6 +126,6 @@ collections:
         { label: "Website Title", name: "website", widget: "string", required: false },
         { label: "Website URL", name: "website_url", widget: "string", required: false },
         { label: "Gallery", name: "gallery", widget: "list", i18n: true, fields: [
-          { label: "Image", name: "image", widget: "image" }
+          { label: "Image", name: "image", widget: "text" }
         ] }
       ]

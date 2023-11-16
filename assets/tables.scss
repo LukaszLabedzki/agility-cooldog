@@ -1,5 +1,15 @@
-table {
-	color: #000;
+.html_content {
+	overflow-x: scroll;
+
+	table {
+		color: #000;
+		min-width: 700px;
+		width: 100%;
+
+		th, td {
+			padding: 0 10px;
+		}
+	}
 }
 
 .ritz {

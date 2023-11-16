@@ -27,7 +27,7 @@
                     <h4>{{.Title}}</h4>
                 </div>
                 {{ if not .Params.html_body }}<div class="card__content">{{ .Content | safeHTML}}</div>{{ end }}
-                {{ if .Params.html_body }}<div class="card__content">{{ .Params.html_body | safeHTML}}</div>{{ end }}
+                {{ if .Params.html_body }}<div class="card__content html_content">{{ .Params.html_body | safeHTML}}</div>{{ end }}
             </div>
         </div>
     </div>

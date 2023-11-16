@@ -71,8 +71,8 @@ en:
       url: https://photos.app.goo.gl/2eCEqbRDuLyREw8s5
       newwindow: true
     - title: teams
-      url: https://drive.google.com/drive/folders/1of7ch_gpGuNLh655K_dEWm9UWoHZuVFl?usp=drive_link
-      newwindow: true
+      url: /druzyny
+      newwindow: false
 pl:
   footer_menu:
     - title: Social Media

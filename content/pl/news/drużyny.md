@@ -3,7 +3,7 @@ title: Drużyny
 slug: Druzyny
 slug_lng: teams
 image: /media/bgdog.jpg
-html_body: >-
+html_body: >+
   <body id="body" class="scheme-info hide-sidebar report-body page-small">
      
   <!-- Header -->
@@ -2885,6 +2885,7 @@ html_body: >-
           </div>
 
 
+
               
   </div>
 
@@ -2924,8 +2925,5 @@ html_body: >-
   	if (typeof messages !== 'undefined') {
   	}
   </script>
-
-   
-  <div><div class="sweet-overlay" tabindex="-1"></div><div class="sweet-alert" tabindex="-1"><div class="icon error"><span class="x-mark"><span class="line left"></span><span class="line right"></span></span></div><div class="icon warning"> <span class="body"></span> <span class="dot"></span> </div> <div class="icon info"></div> <div class="icon success"> <span class="line tip"></span> <span class="line long"></span> <div class="placeholder"></div> <div class="fix"></div> </div> <div class="icon custom"></div> <h2>Title</h2><p>Text</p><button class="cancel" tabindex="2">Cancel</button><button class="confirm" tabindex="1">OK</button></div></div></body>
 ---
 Wyniki drużynowe

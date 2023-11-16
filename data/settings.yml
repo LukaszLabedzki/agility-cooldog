@@ -73,6 +73,8 @@ en:
     - title: teams
       url: /druzyny
       newwindow: false
+    - title: Combined
+      url: /en/combined
 pl:
   footer_menu:
     - title: Social Media
@@ -148,3 +150,5 @@ pl:
     - title: Drużyny
       url: /druzyny
       newwindow: false
+    - title: łączne
+      url: laczne

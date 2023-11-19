@@ -89,8 +89,8 @@ collections:
         { label: "Slug", name: "slug", widget: "string" },
         { label: "Slug (pl)", name: "slug_lng", widget: "string" },
         { label: "Background Image", name: "image", widget: "image", required: false },
-        { label: ".", name: "body", widget: "markdown" },
-        { label: "HTML Body", name: "html_body", widget: "markdown" }
+        { label: ".", name: "body", widget: "markdown", required: false },
+        { label: "HTML Body", name: "html_body", widget: "markdown", required: false }
       ]
   - name: "news-pl"
     label: "Pages (pl)"
